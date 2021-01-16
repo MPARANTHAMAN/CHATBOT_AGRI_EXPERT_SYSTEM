@@ -1,0 +1,169 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "person_name"
+      ]
+    },
+    "utter_serious_diseases_sugarcane_prevalent_regions_Tamilnadu": {
+      "slots": []
+    },
+    "utter_control_ratoon_stunting_disease": {
+      "slots": []
+    },
+    "utter_happy": {
+      "slots": []
+    },
+    "utter_season_planting_sugarcane": {
+      "slots": []
+    },
+    "utter_intercrops_sugarcane": {
+      "slots": []
+    },
+    "utter_meal_bug_pest_effect_sugarcane_juice": {
+      "slots": []
+    },
+    "action_harvesting_products": {
+      "slots": []
+    },
+    "utter_late_maturing_varieties_sugarcane": {
+      "slots": []
+    },
+    "action_fertilizer_requirements": {
+      "slots": []
+    },
+    "utter_mixing_engine_oil_kerosene_irrigation_water_protection_termites": {
+      "slots": []
+    },
+    "utter_statistics_sugarcane_district_tamilnadu": {
+      "slots": []
+    },
+    "utter_sett_root_prevent_disease": {
+      "slots": []
+    },
+    "utter_sugarcane": {
+      "slots": []
+    },
+    "action_drought_management": {
+      "slots": []
+    },
+    "utter_control_white_grubs_standing_sugarcane_crop": {
+      "slots": []
+    },
+    "utter_trash_mulching_advantages_ratoon_crop": {
+      "slots": []
+    },
+    "utter_manage_white_fly_damage": {
+      "slots": []
+    },
+    "utter_red_rot_typicalsymptoms": {
+      "slots": []
+    },
+    "utter_schemes": {
+      "slots": []
+    },
+    "action_ratoon_management": {
+      "slots": []
+    },
+    "utter_temperature_sugarcane": {
+      "slots": []
+    },
+    "utter_wind": {
+      "slots": []
+    },
+    "action_bye": {
+      "slots": []
+    },
+    "utter_smut_disease_spreads": {
+      "slots": []
+    },
+    "action_marketing": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_insecticide_sett_treatment_scale_insect": {
+      "slots": []
+    },
+    "utter_iamabot": {
+      "slots": []
+    },
+    "utter_control_yellow_leaf_disease": {
+      "slots": []
+    },
+    "utter_swa_attack_other_crop": {
+      "slots": []
+    },
+    "action_suitable_varieties_karnataka": {
+      "slots": []
+    },
+    "utter_post-emergence_weed_management": {
+      "slots": []
+    },
+    "action_disease_management": {
+      "slots": []
+    },
+    "utter_inflorescence": {
+      "slots": []
+    },
+    "action_sustainable_sugarcane_initiative": {
+      "slots": []
+    },
+    "utter_rice_plant": {
+      "slots": []
+    },
+    "utter_farm_implements": {
+      "slots": []
+    },
+    "utter_pathogen_spreads": {
+      "slots": []
+    },
+    "utter_control_wilt": {
+      "slots": []
+    },
+    "utter_maturity_ripening_sugarcane": {
+      "slots": []
+    },
+    "utter_light_earthing_35th_day_reduce_shoot_borer_incidence": {
+      "slots": []
+    },
+    "utter_differentiate_inb_top_borer_dead_hearts": {
+      "slots": []
+    },
+    "utter_best_chemical_poison_baiting_rats": {
+      "slots": []
+    },
+    "utter_sub_surface_drip_irrigation": {
+      "slots": []
+    },
+    "utter_polybag_nursery": {
+      "slots": []
+    },
+    "utter_dose_bio-fertilizer_sugarcane": {
+      "slots": []
+    },
+    "utter_main_field_planting": {
+      "slots": []
+    },
+    "utter_leaf_hopper_canefly_quality_juice_effected": {
+      "slots": []
+    }
+  },
+  "python": "3.7.6",
+  "max_histories": [
+    5,
+    5,
+    null
+  ],
+  "ensemble_name": "rasa.core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa.core.policies.memoization.MemoizationPolicy",
+    "rasa.core.policies.ted_policy.TEDPolicy",
+    "rasa.core.policies.mapping_policy.MappingPolicy"
+  ],
+  "trained_at": "20200918-171637",
+  "rasa": "1.10.12",
+  "tensorflow": "2.1.0",
+  "sklearn": "0.22.2.post1"
+}

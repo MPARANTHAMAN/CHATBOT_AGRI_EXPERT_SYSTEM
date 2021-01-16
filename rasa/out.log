@@ -1,0 +1,129 @@
+2020-08-30 13:02:49,770 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-08-30 13:03:35,713 [INFO ]  Rasa server is up and running.
+2020-08-30 13:08:38,748 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 475, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2020-08-30 13:09:38,519 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-08-30 13:09:38,771 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 01:40:08,650 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/callback                                 GET                            callback_webhook.health
+/webhooks/callback/webhook                         POST                           callback_webhook.webhook
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         POST                           handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/conversations/<conversation_id>/trigger_intent    POST                           trigger_intent
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2020-09-03 01:40:08,660 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-09-03 01:40:08,664 [DEBUG]  Using the default number of Sanic workers (1).
+2020-09-03 01:40:08,666 [INFO ]  Enabling coroutine debugging. Loop id 2211078655368.
+2020-09-03 01:40:09,323 [DEBUG]  Extracted model to 'C:\Users\mpara\AppData\Local\Temp\tmpjn73hr57'.
+2020-09-03 01:40:10,079 [DEBUG]  Loading the model ...
+2020-09-03 01:40:11,799 [DEBUG]  Finished loading the model.
+2020-09-03 01:40:11,800 [DEBUG]  Building tensorflow prediction graph...
+2020-09-03 01:40:18,526 [DEBUG]  Finished building tensorflow prediction graph.
+2020-09-03 01:40:18,528 [DEBUG]  Failed to load model for 'ResponseSelector'. Maybe you did not provide enough training data and no model was trained or the path 'C:\Users\mpara\AppData\Local\Temp\tmpjn73hr57\nlu' doesn't exist?
+2020-09-03 01:40:18,547 [DEBUG]  Connected to InMemoryTrackerStore.
+2020-09-03 01:40:18,548 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2020-09-03 01:40:19,152 [DEBUG]  Extracted model to 'C:\Users\mpara\AppData\Local\Temp\tmpwkk6auvg'.
+2020-09-03 01:40:19,609 [DEBUG]  Using yaml library: c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\ruamel\yaml\__init__.py
+2020-09-03 01:40:21,157 [DEBUG]  Loading the model ...
+2020-09-03 01:40:22,049 [DEBUG]  Finished loading the model.
+2020-09-03 01:40:22,051 [DEBUG]  Building tensorflow prediction graph...
+2020-09-03 01:40:23,070 [DEBUG]  Finished building tensorflow prediction graph.
+2020-09-03 01:40:23,090 [DEBUG]  Instantiated NLG to 'TemplatedNaturalLanguageGenerator'.
+2020-09-03 01:40:23,091 [INFO ]  Rasa server is up and running.
+2020-09-03 01:40:54,059 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 452, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2020-09-03 01:40:54,219 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 475, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2020-09-03 01:41:54,043 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 01:41:54,250 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:04:51,863 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-09-03 22:05:19,359 [INFO ]  Rasa server is up and running.
+2020-09-03 22:18:59,207 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 452, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2020-09-03 22:19:34,846 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:19:59,096 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:19:59,344 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:36:49,732 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 452, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2020-09-03 22:37:49,733 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:37:49,973 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:40:34,669 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\mpara\appdata\local\programs\python\python37\lib\site-packages\sanic\router.py", line 452, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2020-09-03 22:40:58,593 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:41:34,673 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2020-09-03 22:41:34,926 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None

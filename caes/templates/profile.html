@@ -1,0 +1,27 @@
+{% block content %}
+
+<div class="container">
+  
+  <form method="post">
+    
+    <div class="col-md-8 col-md-offset-1" >
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	
+	
+      <div class="panel panel-default">
+        <div class="panel-heading"><h2>PROFILE</h2></div>
+        <div class="panel-body">
+    <label> Username: </label> <p>{{user.username}}  </p>
+    <label> First Name: </label> <p> {{user.first_name}}</p>
+	<label> Last Name: </label><p> {{user.last_name}}</p>
+    <label> Email: </label><p> {{user.email}}</p>
+    <br>
+    <a href="{% url 'edit' user.id%}" class="btn btn-success">Edit Profile</a>
+    <br><br>
+    <a href="{% url 'change_password' %}" class="btn btn-success">Change Password</a>
+    
+
+        </div>
+</form>
+</div>
+{% endblock %}

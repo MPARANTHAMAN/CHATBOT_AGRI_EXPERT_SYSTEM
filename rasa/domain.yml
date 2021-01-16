@@ -1,0 +1,1798 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - season_planting_sugarcane
+  - season_planting_sugarcane_tamilnadu
+  - season_planting_sugarcane_karnataka
+  - season_planting_sugarcane_kerala
+  - rainfall_cultivating_sugarcane
+  - temperature_sugarcane
+  - varieties_serves_resistant_redrot
+  - varieties_serves_tamilnadu
+  - new_varieties_sugarcane_released
+  - co_98014
+  - seed_sugarcane_areas_tamilnadu
+  - varieties_serves_kerala
+  - varieties_pertaining_kerala_tolerant_drought
+  - varieties_pertaining_kerala_tolerant_redrot
+  - sugarcane_variety_high_sugar_kerala
+  - varieties_suitable_Karnataka
+  - early_maturing_varieties_sugarcane
+  - late_maturing_varieties_sugarcane
+  - wetland_cultivating_sugarcane_after_harvesting_paddy
+  - soil_suitable_growing_sugarcane
+  - conserve_our_soil_fertility
+  - soil_organic_higher_sugarcane_yield
+  - create_ridges_furrows_soil_before_cultivating_sugarcane
+  - organic_manure_field_inorder_cultivate_sugarcane
+  - pits_sugarcane_planting
+  - plant_sugarcane_pit_method_after_pit_preparation
+  - fertilizer_after_transplantation_sugarcane_settlings
+  - fertilizer_dose_pith_sugarcane_planting
+  - satisfy_higher_nutritional_demand_sugarcane
+  - dual_row_planting_sugarcane
+  - paired_row_cultivation
+  - spaced_transplanting
+  - improved_methods_sugarcane_planting
+  - ring_pit
+  - planting_late_conditions
+  - chip_bud
+  - advantages_tissue_culture_sugarcane
+  - gap_filling
+  - trash_mulching
+  - intercops_sugarcane
+  - non_flowering_varieties_sugarcane
+  - control_flowering_sugarcane
+  - detrashing_sugarcane
+  - intercrops_sugarcane
+  - seed_cultivating_sugarcane
+  - seed_rate_cultivating_sugarcane
+  - qualities_good_seed_sugarcane
+  - rate_planting_sugarcane_setts_row
+  - spacing_planting_sugarcane_setts
+  - seasons_raising_sugarcane_nursery_planting_main_field
+  - raise_nursery_crop
+  - main_field_planting
+  - fertilizer_dose_nursery_plot_sugarcane
+  - fertilizer_sugarcane_tamilnadu
+  - recommended_dose_method_press-mud_application
+  - symptoms_zinc_deficiency_sugarcane_measures_amelioration
+  - role_nitrogen_sugarcane_cultivation
+  - phosphorus_sugarcane
+  - potassium_sugarcane
+  - dose_bio-fertilizer_sugarcane
+  - irrigations_sugarcane
+  - irrigation_intervals_each_phase_sugarcane
+  - tillering_phase
+  - grand_growth_phase
+  - maturity_phase
+  - fertigation_system
+  - surface_drip_irrigation
+  - sub_surface_drip_irrigation
+  - many_days_sugarcane_field_maintain_weed_free
+  - control_parastitic_weed_striga_sugarcane
+  - manage_weeds_sugarcane_field_intercropping_system
+  - herbicides_control_weeds_sugarcane
+  - Pre-emergence_weed_management
+  - post-emergence_weed_management
+  - insects_sugarcane
+  - sucking_pests_sugarcane_prevalent_regions_TamilNadu
+  - serious_pest_sugarcane_Tamilnadu_region
+  - serious_diseases_sugarcane_prevalent_regions_Tamilnadu
+  - chemical_control_measure_early_shoot_borer
+  - not_power_sprayer_insecticides_shoot_borer_control
+  - not_sevidol_8g_effective_against_shoot_borer
+  - control_measures_insecticide_shoot_borer
+  - not_shoot_borer_controlled_application_lindane_chlorpyriphos
+  - pheromone_traps
+  - pheromone_traps_obtained
+  - use_same_pheromone_any_pest
+  - no_special_smell_rubber_septa_firms_genuine
+  - side_effects_pheromones
+  - trash_mulching_shoot_borer_incidence
+  - light_earthing_35th_day_reduce_shoot_borer_incidence
+  - pest_attacks_internode_sugarcane_reducing_quality_ultimately
+  - internode_borer_enter_effect_sugarcane_crop
+  - control_internode_borer_sugarcane
+  - presence_dead_heart_sugarcane
+  - detrashing_effective_inb_management
+  - control_top_borer_pest
+  - differentiate_inb_top_borer_dead_hearts
+  - termite_attack_more_light_soils
+  - termite_controlled_irrigated
+  - prevent_sugarcane_against_termite
+  - termite_mounds_vicinity_attack_field
+  - termite_mounds_eradicated
+  - mixing_engine_oil_kerosene_irrigation_water_protection_termites
+  - control_measure_scale_insect
+  - insecticide_sett_treatment_scale_insect
+  - control_mealy_bug_infestation_sugarcane
+  - meal_bug_pest_effect_sugarcane_juice
+  - dose_swa_cause_itching_body
+  - swa_spreading_entire_field_10_days
+  - thimet_granule_application_very_effective_swa
+  - methyl_parathion_dust_very_effective_swa
+  - microbial_agent_swa_control
+  - swa_attack_other_crop
+  - leaf_hopper_canefly
+  - incidence_pyrilla_pest_sugarcane
+  - pyrilla_controlled
+  - leaf_hopper_canefly_quality_juice_effected
+  - symptoms_white_fly_attack_sugarcane
+  - manage_white_fly_damage
+  - white_grub_incidence_sugarcane
+  - control_white_grubs_standing_sugarcane_crop
+  - control_rat
+  - best_chemical_poison_baiting_rats
+  - red_rot_disease_spreads_sugarcane
+  - sett_treatment_control_red_rot_disease
+  - red_rot_typicalsymptoms
+  - sugarcane_smut
+  - smut_disease_spreads
+  - wilt_diagnosable_symptoms
+  - control_wilt
+  - germination_phase_vulnerable_infection
+  - sett_root_prevent_disease
+  - varieties_resistant_sugarcane_grassy_shoot_disease
+  - pathogen_spreads
+  - yellow_leaf_disease_characteristic_symptoms
+  - control_yellow_leaf_disease
+  - ratoon_stunting_disease_recognized_field
+  - control_ratoon_stunting_disease
+  - criteria_best_quality_sugarcane_juice
+  - organic_jaggery
+  - prepare_bottled_sugarcane_juice
+  - maturity_ripening_sugarcane
+  - technology_sprouting_winter_initiated_ratoon
+  - optimum_millable_cane_ratoon_crop
+  - gap_filling_material_gap_filled_ratoon_crop
+  - trash_mulching_advantages_ratoon_crop
+  - vernacular_Names
+  - origin
+  - introduction_sugarcane
+  - classification_sugarcane
+  - botanical_description
+  - stem
+  - inflorescence
+  - leaf
+  - root
+  - climatic_factor
+  - latitude_altitude
+  - rainfall
+  - temperature
+  - ideal_temperature
+  - relative_humidity
+  - sunshine
+  - frost
+  - wind
+  - statistics_sugarcane
+  - statistics_sugarcane_world
+  - statistics_sugarcane_india_state
+  - statistics_sugarcane_district
+  - statistics_sugarcane_district_karnataka
+  - statistics_sugarcane_district_kerala
+  - statistics_sugarcane_district_tamilnadu
+  - season
+  - varieties
+  - particulars_varieties
+  - morphological_characters
+  - season_wise_suitable_varieties
+  - suitable_varieties_tamilNadu
+  - new_varieties_sugarcane
+  - important_variety_performance
+  - suitable_varieties_kerala
+  - suitable_varieties_karnataka
+  - raising_nursery_crop
+  - soil_preparations
+  - spacing
+  - sett_treatment
+  - polybag_nursery
+  - cultivation_practices
+  - land_preparation
+  - intercultural_operation
+  - method_planting
+  - weed_management
+  - ratoon_management
+  - sustainable_sugarcane_initiative
+  - irrigation_management
+  - water_requirement
+  - irrigation_methods
+  - drip_irrigation
+  - fertigation
+  - drought_management
+  - nutrient_management
+  - role_nutrient
+  - nutrient_application
+  - organic_manure
+  - nutritional_disorder
+  - integrated_nutrient_management
+  - fertilizer_requirements
+  - pest_management
+  - disease_management
+  - farm_implements
+  - harvesting
+  - harvesting_process
+  - types_harvesting
+  - maturity_symptoms_harvesting_period
+  - processing_sugarcane
+  - harvesting_products
+  - marketing
+  - institutions_schemes
+  - international_institutions
+  - national_institutions
+  - sugarcane_research_station
+  - schemes  
+  - name
+  - weather
+  - city
+  - rice_plant
+  - sugarcane
+  - more
+
+
+entities:
+- name
+- person_name
+
+
+slots:
+  person_name:
+    type: text 
+   
+
+
+responses:
+  utter_buttons:
+  - text: choose any button or enter text below
+    buttons:
+    - title: Sugarcane
+      payload: /sugarcane
+    - title: city temperature
+      payload: /weather
+    - title: Harvesting
+      payload: /harvesting
+    - title: Others
+      payload: /more
+
+  utter_buttons2:
+  - text: choose any button or enter text below
+    buttons:
+    - title: SeasonPlantingSugarcane
+      payload: /season_planting_sugarcane
+    - title: Intercops
+      payload: /intercrops_sugarcane
+    - title: SugarcaneTemp
+      payload: /temperature_sugarcane
+    
+
+  utter_sugarcane:
+  - text: "sugarcane or sugar cane refer to several species and hybrids of tall perennial grasses in the genus Saccharum, tribe Andropogoneae, that are used for sugar production. "    
+  utter_rice_plant:
+  - text: "Rice, a monocot, is normally grown as an annual plant, although in tropical areas it can survive as a perennial and can produce a ratoon crop for up to 30 years. [more details] {link}"  
+    
+  utter_city:
+  - text: "which city you want to check for?"
+  utter_temp:
+  - text: "Today's temperature is {temp} degree Celcius."
+
+  utter_greett:
+  - text: "Nice to you meet you {person_name}. How can I help?"
+
+  utter_name:
+  - text: "Hey there! Tell me your name."
+
+  utter_international_institutions:
+  - text: "SOUTH AFRICAN SUGARCANE RESEARCH INSTITUTE USDA-ARS, SUGARCANE RESEARCH
+      UNIT BANGLADESH SUGARCANE RESEARCH INSTITUTE NATIONAL SUGAR CROPS RESEARCH INSTITUTE
+      (NSRI) YUNNAN SUGARCANE RESEARCH INSTITUTE MITR PHOL SUGARCANE RESEARCH CENTER,
+      THAILAND WEST INDIES CENTRAL SUGAR CANE BREEDING STATION [website] (http://www.agritech.tnau.ac.in/expert_system/sugar/institution&schemes.html#1)"
+  utter_national_institutions:
+  - text: INDIAN INSTITUTE OF SUGARCANE RESEARCH SUGARCANE BREEDING INSTITUTE U.P.
+      COUNCIL OF SUGAR CANE RESEARCH GENDA SINGH SUGARCANE BREEDING & RESEARCH INSTITUTE
+      SUGARCANE RESEARCH STATION-GUJARAT SUGARCANE RESEARCH INSTITUTE, PUNJAB MAIN
+      SUGARCANE RESEARCH STATION SUGARCANE RESEARCH STATION-WEST BENGAL NATIONAL SUGAR
+      INSTITUTE VASANTDADA SUGAR INSTITUTE [website]{link}
+  utter_sugarcane_research_station:
+  - text: SUGARCANE RESEARCH STATION,cuddalore SUGARCANE RESEARCH STATION, SIRUGAMANI
+      SUGARCANE RESEARCH STATION, GUDIATHAM SUGARCANE RESEARCH STATION,THIRUVALLA
+      SUGARCANE BREEDING INSTITUTE RESEARCH CENTRE,KANNUR SUGARCANE BREEDING INSTITUTE,
+      REGIONAL CENTRE-KARNAL SUGARCANE BREEDING INSTITUTE RESEARCH CENTRE,KARNATAKA [website]{link}
+  utter_schemes:
+  - text: "SUGARCANE DEVELOPMENT SCHEME : http://agritech.tnau.ac.in/expert_system/sugar/institution&schemes.html#4"
+    
+  utter_institutions_schemes:
+  - text: About Sugarcane Institution and Schemes
+    buttons:
+    - title: International Institutions
+      payload: /international_institutions
+    - title: National_Institutions
+      payload: /national_institutions
+    - title: Sugarcane_Research_Station
+      payload: /sugarcane_research_station
+    - title: Schemes
+      payload: /schemes
+  utter_marketing:
+  - text: Marketing Depends On Transport of Cane Cane Price and Payments Sugar Mills
+      and Factories [website]{link}
+  utter_harvesting_process2:
+  - text: Harvesting of sugarcane at a proper time i.e. peak maturity, by adopting
+      right technique is necessary to realize maximum weight of the millable canes
+      (thus sugar) produced with least possible field losses under the given growing
+      environment. 
+  utter_harvesting_process:
+  - text: "Harvesting either under-aged or over-aged cane with improper method
+      of harvesting leads to loss in cane yield, sugar recovery, poor juice quality
+      and problems in milling due to extraneous matter [website]{link}"      
+  utter_types_harvesting:
+  - text: Manual Harvesting Mechanical Harvesting[website]{link}
+  utter_maturity_symptoms_harvesting_period:
+  - text: Pre – harvest practices a. Apply cane ripeners Spray Sodium metasilicate
+      4 kg/ha in 750 litres of water on the foliage of crop at 6 months after planting.
+      Ii.Repeat the same twice at 8th and 10th months to obtain higher cane yield
+      and sugar percentage. b. Assessing maturity of crops Assess the maturity by
+      hand refractometer brix survey and 18 to 20 per cent brix indicates optimum
+      maturity for harvest. Top-bottom ratio of H.R.Brix reading should be 1:1.[website]{link}
+  utter_processing_sugarcane:
+  - text: Collecting the harvested cane[website]{link}
+  utter_harvesting_products:
+  - text: 'Raw sugar Sugarcane juice[website]{link} '
+  utter_harvesting:
+  - text: Sugarcane matures in 10-12 month in North India and 18-20 month in South
+      India. Brix value is 16-18 in Dec and Jan at or below 200 C. Different Indicators
+      of harvesting are leaves become yellow, plants stops growing and arrows come
+      out, cane produces metallic sounds, buds swell out and eyes start sprouting.
+    buttons:
+    - title: Harvesting Process
+      payload: /harvesting_process
+    - title: Types_Harvesting
+      payload: /types_harvesting
+    - title: Maturity_symptoms_Harvesting_period
+      payload: /maturity_symptoms_harvesting_period
+    - title: utter_Processing_Sugarcane
+      payload: /processing_sugarcane
+    - title: utter_Harvesting_Products
+      payload: /harvesting_products
+  utter_farm_implements:
+  - text: "IMPLEMENTS USED IN SUGARCANE CULTIVATION : http://www.agritech.tnau.ac.in/expert_system/sugar/farmimplements.html "
+  utter_disease_management:
+  - text: ' Red rot,Sett Rot,Smut[website]{link}'
+  utter_pest_management:
+  - text: Sugarcane crop is affected by more than 60 insects of which about 10 insects
+      are rather more important as far as the yield loss is concerned. Among the major
+      insects damaging sugarcane, borers, sucking pests, soil dwelling insects are
+      more prevalent in Tamil Nadu and adjoining states which account 20% loss in
+      cane yield 15% loss in sugar yield.[website]{link}
+  utter_role_nutrient:
+  - text: Plants require 16 essential nutrient elements. Carbon, hydrogen, and oxygen
+      are derived from the atmosphere and soil water. The remaining 13 essential elements
+      (nitrogen, phosphorus, potassium, calcium, magnesium, sulfur, iron, zinc, manganese,
+      copper, boron, molybdenum, and chlorine) are supplied either from soil minerals
+      and soil organic matter or by organic or inorganic fertilizers. These nutrients
+      are essential for proper crop development. Each is equally important to the
+      plant.[website]{link}
+  utter_nutrient_application:
+  - text: Basal application of organic manures[website]{link}
+  utter_organic_manure:
+  - text: Farm yard manure Green manure Press mud[website]{link}
+  utter_nutritional_disorder:
+  - text: Nitrogen Phosphorus [website]{link}
+  utter_integrated_nutrient_management:
+  - text: In many sugarcane growing areas, the productivity of the soils has declined
+      due to intensive cropping and lack of proper soil fertility management practices.
+      The soil productivity can be restored through rationalized integrated nutrient
+      management (INM) involving organic manures, fertilisers and biofertilisers.[website]{link}
+  utter_fertilizer_requirements:
+  - text: Sugarcane – plant crop (meant for sugar mills)[website]{link}
+  utter_nutrient_management:
+  - text: Among various riputes of sugarcane production, although nutrients contribute
+      maximum to the increase in yield. During vegetation the sugarcane consumes many
+      nutrients.
+    buttons:
+    - title: Role Nutrient
+      payload: /role_nutrient
+    - title: Nutrient Application
+      payload: /nutrient_application
+    - title: Organic Manure
+      payload: /organic_manure
+    - title: Nutritional Disorder
+      payload: /nutritional_disorder
+    - title: Integrated Nutrient Management
+      payload: /integrated_nutrient_management
+    - title: Fertilizer Requirements
+      payload: /fertilizer_requirements
+  utter_water_requirement:
+  - text: Depending upon the agro climatic conditions, type of soil, methods of planting
+      and use of manures and fertilizers and sugarcane yield the water requirement
+      varies.The hot weather associated with dry winds and drought increases the water
+      requirement of the crop.[website]{link}
+  utter_irrigation_methods:
+  - text: 'Flood irrigation: In Flood irrigation method, free flow of irrigation water
+      is allowed in the fields in all directions. It is practiced in the flat planted
+      cane, but water loss is high.[click here to know other irrigation types]{link}'
+  utter_drip_irrigation:
+  - text: Drip irrigation is defined as the precise, slow and frequent application
+      of water through point or line source emitters on or below the soil surface
+      at a small operating pressure (20-200 kPa) and at a low discharge rate (0.6
+      to 20 LPH), resulting in partial wetting of the soil surface.[know more]{link}
+  utter_fertigation:
+  - text: Sugarcane being a giant crop producing huge quantity of biomass generally
+      demands higher amounts of nutrient elements.[website]{link}
+  utter_drought_management:
+  - text: Drought is a meteorological term and is defined as a period without a significant
+      rainfall. Infact, when evapo-transpiration exceeds soil moisture supply i.e.
+      water uptake, the water deficit/drought is resulted.[website]{link}
+  utter_irrigation_management:
+  - text: ' Irrigation schemes are management strategies developed to attain specific
+      crop production goals utilizing various delivery and monitoring methods and
+      refer to the overall plan of managing the irrigation water for the duration
+      of the crop.'
+    buttons:
+    - title: Water requirement
+      payload: /water_requirement
+    - title: Irrigation Methods
+      payload: /irrigation_methods
+    - title: Drip irrigation
+      payload: /drip_irrigation
+    - title: Fertigation
+      payload: /fertigation
+    - title: Drought management
+      payload: /drought_management
+  utter_sustainable_sugarcane_initiative:
+  - text: The major principles that govern SSI can be stated as below Cultivation
+      aspects Fertigation schedule for sugarcane in SSI Comparison between Conventional
+      and SSI methods of Sugarcane Cultivation[website]{link}
+  utter_land_preparation:
+  - text: '[click here]{link}'
+  utter_intercultural_operation:
+  - text: '[click here]{link}'
+  utter_method_planting:
+  - text: '[CLICK HERE]{link}'
+  utter_weed_management:
+  - text: '[CLICK HERE]{link}'
+  utter_ratoon_management:
+  - text: '[CLICK HERE]{link}'
+  utter_cultivation_practices:
+  - text: these are the cultivation practices
+    buttons:
+    - title: Land Preparation
+      payload: /land_preparation
+    - title: Intercultural Operation
+      payload: /intercultural_operation
+    - title: Method of Planting
+      payload: /method_planting
+    - title: Weed Management
+      payload: /weed_management
+    - title: Ratoon Management
+      payload: /ratoon_management
+  utter_polybag_nursery:
+  - text: Generally sugarcane is grown by planting the seeds setts directly into the
+      field. But some times, when the water is in short supply or the field is occupied
+      with some other crop, buds or seed setts can be planted in polythene bags to
+      raise nursery. Polythene bags of 10x15cm filled with soil and compost mixture
+      (in 1:1 ratio) are arranged closely in an open space, close to water source.
+      Scooped buds are at 1-2cm depth. Cut sugarcane pieces with one bud can also
+      be used for raising the nursery. Insert these cut pieces into the soil, filled
+      bags up to the node level, keeping buds just touching the soil. Irrigate these
+      bags twice a week. Saplings will be ready for planting in 60 days.
+  utter_sett_treatment:
+  - text: 'a. Preparation of setts for planting: Take seed material from short crop
+      (6 to 7 months age) free from pests and diseasHarvest the seed crop one day
+      before planting to obtain higher percentage and uniform germination. Detrash
+      the cane with hand before setts preparation. Avoid damage to buds while cutting
+      setts.'
+
+  utter_sett_treatment1:
+  - text: " Planting material or seed cane should be free from aerial roots and splits.
+      Change the seed material after every two to three seasons. In case if it is
+      inevitable to use mature cane as seed, the top one-third portion can be used
+      satisfactorily. b. Sett treatment with Azospirillum: Prepare the slurry with
+      10 packets (2000 g/ha) of Azospirillum inoculum with sufficient water and soak
+      the setts in the slurry for 15      minutes before planting. c. Sett treatment
+      with fungicide: The setts should be soaked in Carbendazim (1 gram in 1litre
+      of water) d. Aerated steam treatment: Treat setts with Aerated steam at 50 o
+      C for one hour to  control primary infection of grassy shoot disease.'"   
+  utter_spacing:
+  - text: To get a higher yield of setts a slightly narrower spacing is advantageous.
+      Space should be75cm between the rows.
+  utter_soil_preparations:
+  - text: Ploughing and cultivation is essential so that a good seed bed is prepared.
+      A higher amount of organic manures is advantageous for nursery crops for obtaining
+      a vigorous crop. Apply 25 to 30 tonnes of FYM or cured press mud may be applied
+      about 15 days before planting.
+  utter_raising_nursery_crop:
+  - text: Soil should be without problems like alkalinity, salinity, water logging
+      etc. There should be adequate irrigation facility. The seed plots should be
+      distributed in different divisions or sections and accessible for easy distribution.
+      There should be good road facility for easy and quick transport. The farmers
+      should be progressive. Primary nurseries should be located in the factory farm/research
+      station farm/Government seed farm
+  utter_particulars_varieties:
+  - text: '[click here for Particulars of varieties]{link}'
+  utter_morphological_characters:
+  - text: '[click here for Morphological characters]{link}'
+  utter_season_wise_suitable_varieties:
+  - text: '[click here for Season wise suitable varieties]{link}'
+  utter_suitable_varieties_tamilNadu:
+  - text: '[click here for Suitable varieties for Tamilnadu]{link}'
+  utter_new_varieties_sugarcane:
+  - text: '[click here for New varieties of sugarcane]{link}'
+  utter_important_variety_performance:
+  - text: '[click here for Important variety performance]{link}'
+  utter_suitable_varieties_kerala:
+  - text: '[click here for Suitable varieties for Kerala]{link}'
+  utter_suitable_varieties_karnataka:
+  - text: '[click here for Suitable varieties for Karnataka]{link}'
+  utter_varieties:
+  - text: Sugarcane varieties released in India (central releases) - Salient characteristics
+    buttons:
+    - title: Particulars of varieties
+      payload: /particulars_varieties
+    - title: Morphological characters
+      payload: /morphological_characters
+    - title: Season wise suitable varieties
+      payload: /season_wise_suitable_varieties
+    - title: Suitable varieties for Tamil Nadu (District wise)
+      payload: /suitable_varieties_tamilNadu
+    - title: New varieties of sugarcane
+      payload: /new_varieties_sugarcane
+    - title: Important variety performance
+      payload: /important_variety_performance
+    - title: Suitable varieties for Kerala
+      payload: /suitable_varieties_kerala
+    - title: Suitable varieties for Karnataka
+      payload: /suitable_varieties_karnataka
+  utter_statistics_sugarcane_district_karnataka:
+  - text: karnataka wise Area,Production and Productivity of sugarcane
+    image: https://images.app.goo.gl/n1UZ8kZMDaYRuKTj8 ,https://images.app.goo.gl/aYgQ5SF3pdbCnfJK8
+  utter_statistics_sugarcane_district_kerala:
+  - text: kerala wise Area,Production and Productivity of sugarcane
+    image: https://images.app.goo.gl/xDm5w3eJYrpm32479
+  utter_statistics_sugarcane_district_tamilnadu:
+  - text: tamil nadu Area,Production and Productivity of sugarcane
+    image: https://images.app.goo.gl/pjJtGZ1AZYSVFa558 , https://images.app.goo.gl/xtvo9FNQxTtDnjC97
+  utter_statistics_sugarcane_district:
+  - text: District wise Area,Production and Productivity of sugarcane
+    buttons:
+    - title: tamil nadu
+      payload: /statistics_sugarcane_district_tamilnadu
+    - title: kerala
+      payload: /statistics_sugarcane_district_kerala
+    - title: karnataka
+      payload: /statistics_sugarcane_district_karnataka
+  utter_statistics_sugarcane_india_state:
+  - text: State Wise Area,production and productivity of Sugarcane in India (2008-2009)
+    image: https://images.app.goo.gl/bZYq5x4xn9fHou6o9
+  utter_statistics_sugarcane_world:
+  - text: Area,Production and Productivity of sugarcane in World
+    image: https://images.app.goo.gl/SeSai47wrkEt6Wyh8
+  utter_statistics_sugarcane:
+  - text: 'we are providing Area,Production and Productivity of sugarcane in  '
+    buttons:
+    - title: world
+      payload: /statistics_sugarcane_world
+    - title: India
+      payload: /statistics_sugarcane_india
+    - title: state
+      payload: /statistics_sugarcane_state
+    - title: District
+      payload: /statistics_sugarcane_district
+  utter_wind:
+  - text: High velocity winds exceeding 60 km/hr are harmful to grown up canes leading
+      to lodging and cane breakage.
+  utter_frost:
+  - text: Sever cold weather inhibits bud sprouting in ratoons and arrest cane growth.
+      At temperature -1°c to 2°c the cane leaves and meristem tissues are killed.
+  utter_sunshine:
+  - text: Sugarcane is a sun loving plant. Greater incident radiation favours higher
+      sugar yields. About 7-9 hr of bright sunshine is highly useful for both active
+      growth and ripening.
+  utter_relative_humidity:
+  - text: High humidity (80-85%) favours rapid cane elongation during grand growth
+      period. A moderate value of 45-65% coupled with limited water supply is favourable
+      during the ripening phase. Above 40% humidity coupled with warm weather favours
+      vegetative growth of cane.
+  utter_ideal_temperature:
+  - text: Carbon assimilation-30°c Sugar synthesis-30°c Sugar transport- 30-35°c Tillering-33.3-34.4°c
+      Root growth- 36°c Shoot growth- 33°c
+  utter_temperature:
+  - text: Growth is closely related to temperature. It has a wide temperature range
+      from over 38°c. Optimum temperature for cane growth (germination) is 27° to
+      33°c (80 to 90°F). Temperature below 27°c definitely injurious to the cane,
+      reduce tillers and above 38°c adversely affect the sprouting.
+  utter_rainfall:
+  - text: A total rainfall between 1100 and 1500 mm is adequate provided the distribution
+      is right, abundant in the months of vegetative growth followed by a dry period
+      for ripening. It also grown in area where rainfall is low upto 500 mm. Above
+      1500 mm rainfall cause lodging of cane
+  utter_latitude_altitude:
+  - text: Sugarcane is grown in the world from altitude 36.7° N and 31.0° S, from
+      sea level to 1000m of altitude or little more.
+  utter_climatic_factor:
+  - text: Sugarcane is a tropical plant. It grows more successfully in those regions
+      where the climate is more or less tropical but it can grow in sub tropics too
+      as in north India. Sugarcane is grown in the world from altitude 35° N and 35°
+      S, from sea level to 1000m of altitude or little more.[more details]{link}
+    buttons:
+    - title: Latitude and altitude
+      payload: /latitude_altitude
+    - title: Rainfall
+      payload: /rainfall
+    - title: Temperature
+      payload: /temperature
+    - title: Ideal_temperature
+      payload: /ideal_temperature
+    - title: Relative humidity
+      payload: /relative_humidity
+    - title: Sunshine
+      payload: /sunshine
+    - title: Frost
+      payload: /frost
+    - title: wind
+      payload: /wind
+  utter_inflorescence:
+  - text: The inflorescence or tassel of sugarcane, generally called as ‘Arrow’ is
+      a loose terminal panicle. 25-50 cm long arrow with silky appearance owing to
+      rings of long hairs below each spikelet. The arrangement of the spikelet is
+      racemose. Each tassel consist of several thousand tiny flowers, each capable
+      of producing one seed. Sugarcane usually flowers at the age of 10-12 months
+      but some varieties do not flower at all.
+  utter_root:
+  - text: The root system is fibrous and in two types namely ‘sett roots’ and ‘shoot
+      roots’. When the sugarcane sett is planted in the soil, the root primordial
+      situated at the base of every cane joint is activated and produces roots. These
+      roots are ‘sett roots’ and are mostly temporary. Sett roots can emerge within
+      24 hours of planting. The shoot roots arise from the root rings of the lower
+      nodes of tillers. These roots are thick, fleshy, white and less branched. These
+      are permanent roots which are continually produced from tillers. Shoot root
+      emerges from the base of the new shoot 5 -7 days after planting.
+  utter_leaf:
+  - text: The leaf consists of two parts, the blade and the sheath, separated by a
+      leaf joint. The leaves are attached alternately to the nodes. The leaf sheath
+      is tubular in shape and is inserted at the node. The leaf blade is linear or
+      lanceolate reaching one to one and midrib is prominent with groove on upper
+      surface. The ligule is a membranous ring found as an appendage of the sheath,
+      separating the latter from the blade, and bears long hairs. The scarious extension
+      of the leaf sheath is know as auricles.
+  utter_stem:
+  - text: Sugarcane is propagated vegetatively from stem cuttings. The stem of sugarcane
+      is roughly cylindrical and consists of nodes and internodes, the former being
+      the area around the bud from the leaf scar to the growth ring and the later
+      being the part between two nodes. The node consists of a lateral bud, root primordia
+      and growth ring. Bud situated in the axil of the leaf on alternate sides of
+      the stalk. Root primordia at lower side of the leaf scar arranged in rows. Growth
+      ring present immediately above the each node, coated with waxy layer. The top
+      of the stem is poor in sucrose and is of little value to the sugar factory.
+  utter_botanical_description:
+  - text: Sugarcane is a tall perennial tropical grass, which tillers at the base
+      to produce unbranched stems from 2-8 m more tall, and to around 5cm in diameter;
+      it could be called as giant grass. It is cultivated for these thick stems or
+      stalks or canes, from which the sugar is extracted. The botany of cane consists
+      of root, leaves, stem and inflorescences.[link]{link}
+    buttons:
+    - title: stem
+      payload: /stem
+    - title: root
+      payload: /root
+    - title: leaf
+      payload: /leaf
+    - title: Inflorescence
+      payload: /inflorescence
+  utter_classification_sugarcane:
+  - text: Family - Gramineae Class - Monocotyledons Order - Glumaceae Sub family -
+      Panicoidae Tribe - Andripogoneae Sub-tribe - Saccharininea
+  utter_introduction_sugarcane:
+  - text: Sugarcane and sugarbeet are the main sources of sugar in the world. Out
+      of total sugar produced in the world 60 per cent is obtained only from sugarcane.
+      Asia is the largest producer of sugar followed by Europe Most of the sugar in
+      Asia comes from sugarcane whereas in Europe from sugarbeet. Presently sugarcane
+      is grown in an area of 16 m. ha in over 79 countries. The global production
+      of raw sugar is 112 m.t. India stands first in area (3.93 m. ha) and production
+      (167 m.t) among the sugarcane growing countries of the world. Uttar Pradesh
+      has the largest area almost 50 per cent of the cane area in the country, followed
+      by Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Gujarat, Bihar, Haryana
+      and Punjab. These nine are most important sugarcane producing states. Sugarcane
+      production is also highest in U.P. followed by Maharashtra. Productivity wise,
+      Tamilnadu stands first with over 100 tonnes per hectare followed by Karnataka,
+      Maharashtra. Bihar has the lowest productivity amount the major sugarcane growing
+      states. The sugar industry is the second largest agro-based industry, next only
+      to textiles, in the country.
+    image: http://www.agritech.tnau.ac.in/expert_system/sugar/botany&climate.html#3
+  utter_origin:
+  - text: 'Sugarcane originated in New Guinea where it has been known since about
+      6000 BC.The cultivated canes belong to two main groups: (a) thin, hardy north
+      Indian types S.barberi and the Chinese S.sinenses and (b) thick, juicy noble
+      canes S.officinarum. Highly prized cane is S.officinarum. The origin of S.officinarum
+      is the Indo-Myanmar China border with New Guinea as the main centre of diversity.
+      The officinarums are called the noble canes due to thick, juicy, low-fibred
+      canes of high sucrose content. The origin of S.robustum is New Guinea. The origin
+      of S.spontaneum is subtropical India. The habitat of these two wild canes is
+      swamps, river banks, water courses etc. Tropical cane (Thick cane) might have
+      originated in New Guinea. From India it spreads probably to China, Arabia, Egypt
+      and Sicily.'
+    image: http://www.agritech.tnau.ac.in/expert_system/sugar/botany&climate.html#2
+  utter_vernacular_names:
+  - text: 'English: Cultivated Sugarcane, Noble Cane, Noble Sugarcane, Sugar Cane.Tamil:
+      karumbu[more details]({link})'
+  utter_trash_mulching_advantages_ratoon_crop:
+  - text: Trashes collected after harvest of plant crop should be evenly spread in
+      alternate rows,followed by light irrigation and spray of Chlorpyriphos 20 EC
+      solution @ 5.0 liters/ha in 1600 liters of water to control termite and army-worm.
+      Trash mulching in ratoon conserves moisture and thus, preserves ground water
+      by saving irrigation water up to 30- 40%. It also improves soil fertility and
+      helps in weed check.
+  utter_gap_filling_material_gap_filled_ratoon_crop:
+  - text: 30-35 days old polythene bag/STP raised settlings are suitable gap filling
+      material. The gap appearing at above 60 cm should be filled within 30 days after
+      ratoon initiation.
+  utter_optimum_millable_cane_ratoon_crop:
+  - text: 'Farmers can obtain higher ratoon yield when sugarcane is planted under
+      paired row system (30: 120 cm) with 20% higher on normal seed rate and gap filling
+      at 1st irrigation in ratoon crop. This also curtails the gap filling operation
+      in ratoon crop.'
+  utter_technology_sprouting_winter_initiated_ratoon:
+  - text: To improve sprouting in winter initiated ratoon potash at the rate of 80
+      kg/ha along with irrigation, one month prior to plant cane harvest is given.
+      FYM based Trichoderma culture @ 20 kg/ha with PMC (10 t/ha) application helps
+      in sprouting of winter initiated ratoon.
+  utter_maturity_ripening_sugarcane:
+  - text: In sugarcane by maturity or ripeness it is generally meant the stage which
+      the juices in the cane stalk contains an economic level of sucrose and not to
+      the changeover of the crop from vegetative to reproductive phase. At this stage,
+      the stalk will contain stored sugar to support reproduction, but its sugar storage
+      potential has not necessarily been realized. In a simple way ripening is storage
+      of excess sucrose. If juice pol and purity percentages are more than 16 and
+      85, respectively the cane is considered to be ripe. Several factors like soil
+      fertility, added fertilizers (quantity and time), pests and disease attack in
+      addition to variety and weather parameters actually decide the maturity of the
+      cane.
+  utter_prepare_bottled_sugarcane_juice:
+  - text: 1. Choose a variety with high sugar content, light coloured and with less
+      fiber (CoC 671, Co 62175, Co 7717, Co 86032, Co 86249 and Co 94012). 2. Grow
+      the cane in normal soils with good quality water. 3. Use organic manure liberally
+      instead of inorganic fertilizers. 4. Avoid high and late application of nitrogen.
+      5. Choose the pest and disease free cane for crushing. 6. Harvest the cane at
+      peak maturity. 7. Crush the cane within 24 hours after removal of rind. 8. Add
+      one lemon with 2 to 3 g of ginger for every 3 kg of cane material. 9. Warm the
+      juice to 60 to 70�C and keep it at that temperature for 15 minutes. 10. Remove
+      the impurities by filtering the juice with a muslin cloth. 11. To the clear
+      juice add sodium metasulphite as a preservative at a rate of 1 g per 8 lit of
+      juice. 12. Transfer to a hot water sterilized bottles, close it with a corking
+      machine. 13. Serve chilled. 14. Bottled juice can be stored for 6 to 8 weeks.
+      15. Initial investment required for bottling 500 Nos. per day will be approx.
+      16. Rs. 10,000/- (cost of bottles, stainless steel vessels, electric heaters,
+      hot water sterilization tank and corking machine excluding cost of crusher).
+  utter_organic_jaggery:
+  - text: Many times the market jaggery has been found to contain excess quantities
+      of harmful chemicals like sulphur dioxide. Due to use of chemicals the taste
+      and storability of such jaggery is also affected. In this context growing of
+      sugarcane naturally and with use of organics and also preparation of jaggery
+      with use of organic clarificants assumes importance in order to produce quality
+      jaggery. There is a growing demand for organically produced jaggery both within
+      the country and in the export market. For preparation of organic jaggery, the
+      sugarcane should be grown in field free from any residue of chemical fertilizers,
+      herbicides, pesticides etc. from the previous crop. Follow all the recommended
+      techniques for growing the sugarcane by applying only organic source of required
+      nutrients, totally avoiding pesticides and herbicides. For controlling the pest,
+      biocontrol methods may be adopted.
+  utter_criteria_best_quality_sugarcane_juice:
+  - text: � Should have accumulated peak sucrose content in juice � Should have low
+      level of non sugars � Should have high purity � Should have optimum fibre content
+      � Should have negligible amount of unwanted materials (trash, binding materials,
+      dead and dry canes, mud particles, water shoots, etc.) � Should have higher
+      quantity of juice � There should not be pith in the can
+  utter_control_ratoon_stunting_disease:
+  - text: Aerated steam therapy eliminates the pathogen from the infected canes. Use
+      of disinfectants to clean seed cane cutting tools would reduce chances of spread
+      of pathogen from infected to healthy setts.
+  utter_ratoon_stunting_disease_recognized_field:
+  - text: Slow decline of varietal performance with cane thinness and poor vigour.
+  utter_control_yellow_leaf_disease:
+  - text: Through meristem tip culture, the virus can be eliminates from the cane.
+      Later proper seed nursery programmes are to be followed to ensure supply of
+      disease free seed canes
+  utter_yellow_leaf_disease_characteristic_symptoms:
+  - text: Yellowing of mid ribs in the 3 to 5 leaves during and after cane formation
+      stages. Laminar yellowing along the discoloured mid rib and drying of leaf along
+      the mid rib from the tip
+  utter_pathogen_spreads:
+  - text: Infected seed cane serves as primary source and insect vectors spread the
+      pathogen cane to cane in the field.
+  utter_varieties_resistant_sugarcane_grassy_shoot_disease:
+  - text: Grassy shoot disease resistant varieties of sugarcane include Co 86249,
+      CoG 93076 and CoC 22.
+  utter_sett_root_prevent_disease:
+  - text: Avoiding deep planting during monsoon and preventing water stagnation during
+      germination phase. Dipping of setts in fungicide has to be done as a prophylactic
+      measure before planting.
+  utter_germination_phase_vulnerable_infection:
+  - text: Surviving pathogen in the soil enters the sett tissues through cut ends
+      and cause rotting if they are not protected with fungicide, delay in germination
+      due to deep planting or water stagnation in the field enhance entry into the
+      setts and pathogenesis.
+  utter_control_wilt:
+  - text: Healthy seed, crop rotation, optimizing soil moisture status and reducing
+      root borer infestation are recommended to control wilt in an integrated approach.
+  utter_wilt_diagnosable_symptoms:
+  - text: External � gradual yellowing and drying of foliage, shrinkage and withering
+      of canes. Internal � infected canes show light to dark reddish brown discolouration
+      of ground tissue, pithiness and boat shaped cavities in the middle of the internode.
+  utter_smut_disease_spreads:
+  - text: Primary transmission takes place through infected seed canes. In the field
+      through air the spores from the whips are transmitted from cane to cane in the
+      field.
+  utter_sugarcane_smut:
+  - text: Sugarcane smut is a serious disease of sugarcane which can reduce yields
+      by 30 to 100 percent. The disease is caused by the fungus Ustilago scitaminea.
+      It is highly infectious and can be spread by wind or carried on clothing and
+      machinery
+  utter_red_rot_typicalsymptoms:
+  - text: Orange / yellow discolouration of leaves followed by drying of canes in
+      a clump. External rind discolouration as dull brown patches on nodes and internodes.
+      Splitting of the canes reveal the typical reddening of internodal tissues with
+      intermittent white spots. At later stage mycelia growth is seen in pith region.
+  utter_sett_treatment_control_red_rot_disease:
+  - text: Adopt sett treatment with Carbendazim before planting (Carbendazim 50 WP
+      (0.5 gm in 1 litre of water) or Carbendazim 25 DS (1gm in 1 litre of water)
+      along with Urea (10 gm in 1 litre of water) for 5 minutes) to avoid the red
+      rot disease in sugarcane.
+  utter_red_rot_disease_spreads_sugarcane:
+  - text: The disease is mainly spread by the preparation of setts from diseased cane.
+      Bottom portion of the cane left over in the field after harvest, irrigation,
+      rain and wind also spread the disease causing fungi. Ratooning of the affected
+      cane also spread the disease further.
+  utter_best_chemical_poison_baiting_rats:
+  - text: In general poison baits will not be of much use in fields that have abundant
+      food supply. If zinc phosphide is used in baits, the rats will develop bait
+      shyness after a few feeding and baiting will become ineffective. Moreover, the
+      baits will kill birds such as peacock, patridge, quoel etc.
+  utter_control_rat:
+  - text: First it has to be ascertained whether the rats come from outside the sugarcane
+      field or live inside the sugarcane fields. Generally, if they are coming from
+      outside the cane fields, the attack will start from the boundaries. If they
+      have burrows inside the field, the attack will be in patches at the beginning
+      itself. After the cane harvest, the live burrows in and around the sugarcane
+      fields are to be identified. This is done by first plugging the rat holes with
+      mud and inspecting them the next day to check whether they are opened. The opened
+      burrows indicate rat activity. These burrows should be applied with half half
+      a tablet of celphos and the burrow mouth plugged with the mud. Since celphos
+      is a fumigant with odour less poisonous gas it should be handled only by the
+      experienced persons and two persons should handle it. The soft rind varieties
+      such as Co 86032 may be avoided in rat attack prone areas and hard rind varieties
+      may be grown
+  utter_control_white_grubs_standing_sugarcane_crop:
+  - text: It is very difficult and a costly operation to control white grubs in standing
+      crop of sugarcane. No insecticide is effective against white grubs. Stagnating
+      water for 24hrs in the cane crop will bring the grubs above ground which may
+      be handpicked and destroyed. Care to prevent lodging of crop due water stagnation
+      should be taken.
+  utter_white_grub_incidence_sugarcane:
+  - text: Avoid ratoons in infested fields, Provide adequate irrigation, since under
+      inadequate soil moisture conditions, the pest appear in the root zone. Apply
+      lindane 1.3 D 125 kg/ha near the root zone and give one more round 30 days later
+  utter_manage_white_fly_damage:
+  - text: '� Spray any one of the following when the incidence is noticed (1000 l
+      spray fluid): Fenitrothion 50 EC 2000 ml (or) Monocrotophos 36 WSC 2000 ml.
+      � Spraying acephate 2g per lit water will control whitefly. The spray has to
+      be repeated after a month to kill the nymphs emerging from eggs. � Being a sucking
+      pest, this pest becomes more predominant in problem soil areas as encountered
+      in saline, alkaline, poor drainage, micronutrient deficiency, drought conditions
+      etc. Ill drained fields are more affected.'
+  utter_symptoms_white_fly_attack_sugarcane:
+  - text: The insects appear as immobile white and black spots/dots on leaves, the
+      black one being nymphal instars and white the puparia. The insects adhere to
+      the undersurface of leaves and desap the plant. The affected crop turns pale,
+      yellow, reddish brown in later stage and finally the leaves dry up. Yield loss
+      of cane and sugar is considerable in damaged fields.
+  utter_leaf_hopper_canefly_quality_juice_effected:
+  - text: Nymphs and adults suck sap from the leaves. In severe cases the leaves fade
+      and dry up. Plants present a sickly and blighted appearance. Insects excrete
+      honeydew on which sooty mould develops. Since, sucrose content is reduced; the
+      quality of Jaggery is drastically affected.
+  utter_pyrilla_controlled:
+  - text: In peninsular India, pyrilla had never assumed a pest status. The nymphal
+      instars have five stages and the skin moulted at each stage sticks to the leaves
+      persistently giving an illusion of severe pyrilla population. Moreover, in all
+      parts of peninsular India its parasitoid Epiricania melanoleuca is present which
+      will (automatically) naturally control the pest. It is very important not to
+      spray any insecticide in pyrilla affected field where Epiricania is present.
+  utter_incidence_pyrilla_pest_sugarcane:
+  - text: This pest normally infests the crop during pre-monsoon period, mostly from
+      August to October months in the coastal region of Tamil Nadu.
+  utter_leaf_hopper_canefly:
+  - text: Major pest distributed throughout India. The adults are straw-coloured,
+      with posterior-portion of the wings darker, wings folded on back in a roof-like
+      manner and head projected forward forming a rostrum. Eggs are laid in clusters
+      of 20-25, on the under surface of leaves, and are covered by a white-fluffly
+      material. Nymphs are pale brown with a pair of wax - covered anal processes.
+  utter_swa_attack_other_crop:
+  - text: Though there reports that it develops in maize and sorghum it is not recorded
+      widely. Moreover, because of the long duration and continuous availability of
+      sugarcane crop and the ability of SWA to attack any stage of sugarcane crop,
+      there is no pressure on the aphid to switch or seek other hosts as alternatives
+  utter_microbial_agent_swa_control:
+  - text: No. There are no microbial agents native to SWA. The pathogens of other
+      insects are not effective also. Moreover spraying the pathogen in sugarcane
+      field is very difficult as they have to be sprayed only on the under surface
+      of the leaves to facilitate contact with the pest.
+  utter_methyl_parathion_dust_very_effective_swa:
+  - text: Not so. Dusts in general are less effective than EC formulations because
+      it cannot be applied thoroughly to cover the lower surface of leaves and are
+      not systemic.
+  utter_thimet_granule_application_very_effective_swa:
+  - text: No. It will give only 50 per cent control which is not sufficient to minimize
+      SWA population.
+  utter_swa_spreading_entire_field_10_days:
+  - text: Not true. If the climate is favourable, it would take a minimum of two to
+      three months to spread to entire field.
+  utter_dose_swa_cause_itching_body:
+  - text: No. The neonate that crawl over the body of the person may give a tickling
+      sensation but not known to cause any allergic irritation.
+  utter_meal_bug_pest_effect_sugarcane_juice:
+  - text: Nymphs and adults suck sap and reduce the vitality of the crop; excrete
+      honey dew on which sooty mould grow, due to which internodes appear black, and
+      cane growth is retarded.
+  utter_control_mealy_bug_infestation_sugarcane:
+  - text: '� Mealy bug is another minor pest and dose not causes any appreciable loss.
+      � Detrashing will help to minimize the incidence. � Apply any one of the following
+      insecticides when the incidence is noticed spray on the stem only: Methyl parathion
+      50 EC 1000 ml (or) Malathion 50 EC 1000 ml.'
+  utter_insecticide_sett_treatment_scale_insect:
+  - text: If the setts are to be planted in situ there is no need for sett treatment
+      with any insecticide as scale cannot develop on setts below the soil for four
+      months till internodes are formed. However, if the setts are to be taken from
+      infested place to new areas for planting such setts may be dipped in dichlovos
+      at 1ml per lit water and placed in cement bags with the mouth tied and transported.
+      The quick acting Nuvan with fumigant action will effectively kill the scale
+      population on the setts.
+  utter_control_measure_scale_insect:
+  - text: Scale is not a serious pest to take up control measures. The feeding by
+      scale is from the storage cell that contains sugar. It may use negligible amount
+      of sugar for its development and so the damage is not sever. Because, the dead
+      remains of the scale insect continue to stick to the internodes till harvest
+      it will give an illusion of severe infestation of entire cane at the given time
+      but in fact the encrustation has built up over several months. Any contact insecticides
+      such as dichlorvos etc. When applied to the infested cane stalk after detrashing
+      will only kill matured scales as young ones would have already settled on tender
+      internodes that are covered by understandable leaf sheaths from which the infestation
+      will continue.
+  utter_mixing_engine_oil_kerosene_irrigation_water_protection_termites:
+  - text: No.Termite attack will be patches here and there. The oil mixed with irrigation
+      water will not spread uniformly to all places and required quantity of oil cannot
+      be mixed to cover a large area. But though applying of engine oil on termite
+      affected spots will certainly control will be temporary and the oil will spoil
+      the structure which is more damaging than termite attack.
+  utter_termite_mounds_eradicated:
+  - text: Toss one celphos tablet and plug all the holes with mud. If the mounds are
+      without chimneys a hole is made, celphos tablet tossed in and the hole plugged.
+  utter_termite_mounds_vicinity_attack_field:
+  - text: Of the 13 species of termite in sugarcane not all form above ground mounds.
+      Five species form below ground mounds and hence will not be visible.
+  utter_prevent_sugarcane_against_termite:
+  - text: Application of chlorpyriphos @ 5 lit/ha with 1500-1800 lit water in the
+      furrow during planting controls termite in Sugarcane.
+  utter_termite_controlled_irrigated:
+  - text: No. Irrigation temporarily stops termite attack due to excess moisture and
+      when the optimum moisture level is reached the attack will revive.
+  utter_termite_attack_more_light_soils:
+  - text: Not necessarily. There are 13 species of termites in sugarcane. Some will
+      be in light soil and some in heavy soil. So attack can be in any soil typ
+  utter_differentiate_inb_top_borer_dead_hearts:
+  - text: In INB dead the spindle leaves and one or two leaves below will dry. In
+      top borer dead hearts inner most leaf alone will dry. INB dead hearts will be
+      very prominent and straw coloured and when pulled will slide from the spindle
+      and come away. The lower part will show the drying symptom, discolouration and
+      some time saprophytic maggots. In top borer dead hearts the colour will be generally
+      dark brown, small in size, may or may not have feeding puncture holes and when
+      pulled will snap and a part of dry leaf will come. The immediate green leaves
+      may show shoot holes of one or two rows and the lower green leaf may show the
+      mid tunneling. This is the most distinguishing symptom.
+  utter_control_top_borer_pest:
+  - text: Release Isotima javensis at 100 pairs/ha or Trichogramma japonicum @ 2.5
+      CC/ha four to six times at fortnightly intervals from the onset of symptoms.
+  utter_detrashing_effective_inb_management:
+  - text: Not as a sole method. That is detrashing alone may contribute to only 2
+      to 4% reduction in incidence.
+  utter_presence_dead_heart_sugarcane:
+  - text: Top borer, a serious pest of sugarcane creates dead heart condition. Its
+      incidence is seen from 6th month stage onwards. The affected cane exhibits dead
+      heart in central whorl leaf which cannot be pulled out easily. Sprouting of
+      top buds in cluster renders a bunch top appearance in the plant. More than the
+      yield, sugar recovery loss is more pronounced in crops damaged by top borer.
+  utter_control_internode_borer_sugarcane:
+  - text: � Release egg parasitoid, Trichogramma chilonis at the rate of 2.5 cc/release/ha.
+      Six releases 15 days interval starting from 4th month onwards will be necessary.
+      During rainy weather and when ants are present, release the parasite through
+      mosquito net covered plastic disposable cups. � Detrash the crop on the 150th
+      and 210th day after planting.
+  utter_internode_borer_enter_effect_sugarcane_crop:
+  - text: Caterpillars bore at the nodal region and enter the stem. Its feeding makes
+      the tissues red. Entrance hole is usually plugged with excreta .A single larva
+      may attack a number of nodes
+  utter_pest_attacks_internode_sugarcane_reducing_quality_ultimately:
+  - text: Internode borer affects the crop from 4th month stage onwards up to harvest.
+      The pest affects the nodal portions of the crop and conspicuous by their bore
+      holes. Affected crop exhibits nodal sproutings and frass material inside the
+      tunnels
+  utter_light_earthing_35th_day_reduce_shoot_borer_incidence:
+  - text: No. It will not because, the larvae are so tiny that they can find their
+      way to the lower part of the shoot below the soil in the gaps present in between
+      the leaf sheaths and the shoots which can never be covered by any amount of
+      earthing up
+  utter_trash_mulching_shoot_borer_incidence:
+  - text: Yes. The trash acts as mechanical barrier to the tiny and just emerged shoot
+      borer larvae which have to move from one clump to another only through the soil
+      surface as leaves of adjacent clumps will not touch each other during that age
+      of crop. Moreover, the trash will encourage development of general predators
+      such as spiders, carabid beetles etc which increase chances of predation of
+      the moths and the dispersing larvae. However, the possibility of cut worm or
+      rat damage in mulched fields is more.
+  utter_side_effects_pheromones:
+  - text: No side effects at all at the quantity of 3mg used in a lure. On the other
+      hand it has same advantages that are not there even in biological control or
+      in resistant varieties.
+  utter_no_special_smell_rubber_septa_firms_genuine:
+  - text: The smell will be known only to the individuals of the particular insect
+      species and even the other pest species will not be able to identify it. From
+      the collection of months in the traps the genuineness of the septa can be ascertained
+      provided there is moth emergence when deployed.
+  utter_use_same_pheromone_any_pest:
+  - text: We can use the same trap for any pest but not the same pheromone lure. Each
+      species has different pheromones and hence only specific ones are to be used.
+  utter_pheromone_traps_obtained:
+  - text: The Rajshree sugars and Chemicals Ltd., Varadharaj nagar,Vaigai dam, 625
+      562, Theni and Pest control India Ltd., Bangalore are producing the pheromones.
+      The former firm recommends eight traps per acre while the latter recommends
+      four per acre. But 10 traps per acre, 45cm trap height and weekly filling of
+      water and kerosene in the trap are essential for the method to be effective
+      against shoot borer.
+  utter_pheromone_traps:
+  - text: Pheromone traps are an important device in early pest warning system to
+      detect presence of insects in fields and give an indication to initiating pest
+      control measures with appropriate insecticides or biological control agents
+      at the right time. Pheromone traps are lures that contains the female hormones
+      to attract the male insects. When pheromone lure is placed in dispenser and
+      kept in the trap, pheromone from dispenser gradually evaporates and spreads
+      in air by diffusion process. Male species of insects receives the smell of pheromones
+      and get attracted to the lures, which serve as female trap, and male insects
+      eventually get trapped. Insecticides with knock down and fumigation effect,
+      such as dichlorvos, kerosene and diesel are used to kill trapped males, which
+      might have otherwise mated with females to produce innumerable eggs. Once the
+      insect enters the trap, it will not be able to come out.
+  utter_not_shoot_borer_controlled_application_lindane_chlorpyriphos:
+  - text: If the application procedure described earlier is followed it will certainly
+      give control of the borer. Further, dead heart formation by shoot borer takes
+      a few days to a few weeks depending on the instar attacking the shoot, age of
+      the shoot, prevailing weather and varietal ability. So, if new dead hearts are
+      noticed even after the insecticidal application, they would have been the shoots
+      already damaged by the borer and were in the process of drying at the time of
+      insecticide application.
+  utter_control_measures_insecticide_shoot_borer:
+  - text: Frequent irrigation and deployment of pheromone traps. Shoot borer attack
+      kills the shot which would naturally induce formation of compensatory shoots.
+      If irrigation is given, the formation and growth of compensatory shoots are
+      encouraged. In fields where frequent irrigation is not possible compensatory
+      shoots will not be formed and the infested parts of the fields will remain gappy
+      Spray Granulosis virus at 1.5 x 1012 PIB/ha twice on 35 and 50 days after planting
+      (DAP) or release 125 gravid females of Sturmiopsis inferens /ha on 30 and 45
+      DAP.
+  utter_not_sevidol_8g_effective_against_shoot_borer:
+  - text: Granular insecticides, in general, can only give less coverage to target
+      parts of plants than EC formulations for contact action. Moreover application
+      of granules on leaf whorls of very small shoots numbering about one lakh in
+      an acre is extremely difficult. More so, because sand is to be used as diluents
+      with the granules, due to improper mixing of granules and sand, many a time
+      shoots will receive no granule or sublethal dose only. Further, the slight fumigant
+      action of carbaryl as fumigants will not be effective in the open and the slight
+      systemic action of gamma sevidol is not of any consequence as even the fully
+      systemic Furadon or Temik are not effective against shoot borer. Also, using
+      a combination insecticide like sevidol is unscientific as it would render both
+      insecticides useless due to development of cross resistance. Also, one of the
+      components of Sevidol, viz gamma BHC is already banned by the government.
+  utter_not_power_sprayer_insecticides_shoot_borer_control:
+  - text: For effective control of shoot borer, the insecticide should cover the site
+      targeted by shoot borer in the plant which is the inner of the leaf sheath and
+      collar region of the shoots. To cover such an area in each and every shoot,
+      only high volume sprayers will be of use as the spray fluid can be directed
+      precisely to the target region of each and every shoot. Moreover, the quantity
+      of spray fluid to be used for the given length of row can be achieved correctly.
+      Power sprayer is more suitable for foliage feeding pests.
+  utter_chemical_control_measure_early_shoot_borer:
+  - text: 'When an ETL (Economic Threshold Level) of 15% dead heart is reached apply
+      any one of the following insecticides: � Soil application: Lindane10G 12.5 kg
+      (or) Carbofuran3G 33 kg (or)Chlorpyriphos10G 12.5 Kg/ha � Spraying: Monocrotophos
+      36 WSC 1000 ml (or) Chlorpyriphos 20 EC 1000 ml (or) Phosalone 35 EC 1000 ml
+      � Newer chemical against sugarcane shoot borer: Regent 3G @ 75g a.i/ha is found
+      to be effective against shoot borer.'
+  utter_serious_diseases_sugarcane_prevalent_regions_Tamilnadu:
+  - text: Red rot is the major serious disease of sugarcane. Smut is the major disease
+      of sugarcane in Tamil Nadu causing severe economic loss next only to red rot.
+  utter_serious_pest_sugarcane_Tamilnadu_region:
+  - text: White grub is a major pest in the northern and western districts of Tamil
+      Nadu. The damage in the ratoon crop is more severe than in the plant crop. The
+      grubs live in the soil and feed on the root portion of the plant, causing wilting
+      and drying of the canes in the latter date. When there is severe infestation
+      entire crop is lost.
+  utter_sucking_pests_sugarcane_prevalent_regions_TamilNadu:
+  - text: White fly, scale insects, woolly aphid, mealy bugs, leaf hoppers are wide
+      spread in epidemic and endemic forms in certain localities of Tamil Nadu."
+  utter_insects_sugarcane:
+  - text: a) Trichogramma chilonis Ishii b) Telenomus dignoides Nixon
+  utter_post-emergence_weed_management:
+  - text: After the emergence of weeds, spray 2-4-D @ 2.5kg/ha to control broad leaves
+      weed. Grass sp are controlled by hand weeding. Spraying of Ethoxy sulfuron @
+      13kg/10 litre of water controls the Cyprus sp.
+  utter_Pre-emergence_weed_management:
+  - text: Protect the sugarcane crop without weeds for 90 days from planting onwards.
+      During 3rd or 4th day after planting spray Atrazine @ 2.5 kg/ha uniformly on
+      the surface of field before the emergence of weeds. Chemical should be diluted
+      in 1000liter of water and spray through hand sprayer. Separate hand sprayer
+      and nossel should be used for herbicide application. Before application of fertilizer,
+      weeds which are not controlled by herbicide application should be uprooted by
+      hand weeding. By this method we can reduce the maximum level of crop damage.
+  utter_herbicides_control_weeds_sugarcane:
+  - text: Pre-emergence application (Before the emergence of weeds) of Atrazine 2kg
+      a.i. / acre mixed with 80 - 100 l of water within 3 days after planting while
+      spraying these herbicides soil should contain optimum moisture. Gramoxone 1
+      l / acre mixed with 80 - 100 l of water should spray 8 - 12 days after planting
+      that is just before the emergence of sugarcane. To control the sedges and broad
+      leaved weeds apply gramoxone 1 litre + Fernoxone 1kg / acre . Dilute these herbicides
+      separately in water mixed in tank while spraying.
+  utter_manage_weeds_sugarcane_field_intercropping_system:
+  - text: Premergence application of Thiobencarb @ 1.25 kg ai/ha under intercropping
+      system in Sugarcane with Soybean, blackgram or groundnut gives effective weed
+      control. Raising intercrops is not found to affect the cane yield and quality.
+  utter_control_parastitic_weed_striga_sugarcane:
+  - text: If the parasitic weed striga is a problem, post-emergence application of
+      2,4-D sodium salt @ 1.25 kg/ha in 500 litre of water/ha may be done. 2, 4-D
+      spraying should be avoided when neighboring crop is cotton or bhendi. Apply
+      20% urea also for the control of striga as direct spray.
+  utter_many_days_sugarcane_field_maintain_weed_free:
+  - text: 120 to 135 days.
+  utter_sub_surface_drip_irrigation:
+  - text: The application of water below the soil surface through emitters molded
+      on the inner wall of the dripline, with discharge rates (1.0 - 3.0 LPH) generally
+      in the same range as integral surface drip irrigation. This method of water
+      application is different from and not to be confused with the method where the
+      root zone is irrigated by water table control, herein referred to as subirrigation.
+      The integral dripline (thin or thick-walled) is installed at some predetermined
+      depth in the soil depending on the soil type and crop requirements. There are
+      two main types of SDI - one crop and multicrop.
+  utter_surface_drip_irrigation:
+  - text: The application of water to the soil surface as drops or a tiny stream through
+      emitters placed at predetermined distance along the drip lateral is termed as
+      surface drip irrigation. It can be of two types - online or integral type surface
+      drip system. Integral dripline is recommended for sugarcane.
+  utter_fertigation_system:
+  - text: � Fertigation is the judicious application of fertilizers by combining with
+      irrigation water. � Fertigation can be achieved through fertilizer tank, venturi
+      System, Injector Pump, Non-Electric Proportional Liquid Dispenser (NEPLD) and
+      automated system. � For fertigation recommended dose of NPK is 275:15:112.5
+      NPK / ha in sugarcane fields
+  utter_maturity_phase:
+  - text: Maturity phase (271 – harvest),sandy soil-10,clay soil -14
+  utter_grand_growth_phase:
+  - text: Grand growth phase (101 - 270 days),sandy soil-8,clay soil -10
+  utter_tillering_phase:
+  - text: Tillering phase (36 to 100 days),Sandy soil-8,Clay Soil-10
+  utter_irrigation_intervals_each_phase_sugarcane:
+  - text: 'The irrigation intervals in each phase are given below:'
+    buttons:
+    - title: Tillering phase
+      payload: /season_planting_sugarcane_tamilnadu
+    - title: Grand growth phase
+      payload: /season_planting_sugarcane_kerala
+    - title: Maturity phase
+      payload: /season_planting_sugarcane_tamilnadu
+  utter_irrigations_sugarcane:
+  - text: 3 to 5.
+  utter_dose_bio-fertilizer_sugarcane:
+  - text: Acetobacter culture @ 12 kg/ha mixed with 125 kg FYM is applied over setts
+      in forrows at the time of planting.
+  utter_potassium_sugarcane:
+  - text: � Requirement of K is greater than N and P. � Required for carbon assimilation,
+      photo synthesis translocation of carbohydrates � Involved in various enzymatic
+      activities � Important for sugar synthesis and translocation to the storage
+      organs. � Develops resistance to sugarcane against pest, disease and lodging.
+      � Maintains cell turgidity under moisture stress conditions. � Balances the
+      effect of N and P
+  utter_phosphorus_sugarcane:
+  - text: � Uptake depends on presence of soluble and plant absorbable form. � P-requirement
+      is relatively less than N and K. � Necessary for formation of proteins and thus
+      for yield build up. � Important for cell division leads to crop growth � Stimulates
+      root growth � Necessary for plant metabolism and photo synthesis � Required
+      for adequate tillering � Interacts with N and thus enhance ripening.
+  utter_role_nitrogen_sugarcane_cultivation:
+  - text: � Influences sugarcane yield and quality. � Required for vegetative growth
+      (tillering, foliage formation, stalk formation and growth) and root growth.�
+      Vegetative growth in sugarcane is directly related to yield.
+  utter_symptoms_zinc_deficiency_sugarcane_measures_amelioration:
+  - text: Leaves of the middle portion of the cane become yellow in case of zinc deficiency.
+      Yellowing starts from the tips of the leaves and proceeds towards the base of
+      the leaves. In accute deficiency the leaves dry up. Zinc Sulphate (0.5%) + Urea
+      (2.5%) or Zinc Sulphate (0.5%) + lime water are sprayed for its amelioration.
+  utter_recommended_dose_method_press-mud_application:
+  - text: Sulphinated Press-Mud Cake (SPMC) @ 10 t/ha is evenly spread in the field
+      and mixed with soil at last ploughing before sugarcane planting.
+  utter_fertilizer_sugarcane_tamilnadu:
+  - text: 'i. Sugarcane � plant crop (meant for sugar mills).ii. Sugarcane � Ratoon
+      crop (meant for sugar mills) 275 + 25% extra N: 62.5: 112.5 kg N, P2O5 and K2O
+      per ha.iii. Sugarcane for jaggery manufacture (plant as well as ratoon crop)
+      225: 62.5: 112.5 kg N, P2O5 and K2O per ha'
+  utter_fertilizer_dose_nursery_plot_sugarcane:
+  - text: Apply 125 kg Urea / ha + 125 kg MOP/ha one month prior to harvest.
+  utter_main_field_planting:
+  - text: December - January (early season),February - March (Mid season),April -
+      May (Late season),June - September (Special season)
+  utter_raise_nursery_crop:
+  - text: June(early season) ,July(Mid season),August(Late season),Dec – Apr(Special
+      season)
+  utter_seasons_raising_sugarcane_nursery_planting_main_field:
+  - text: 'Raise six to seven months old nursery crop prior to main field planting
+      as follows:'
+    buttons:
+    - title: Raise nursery crop during
+      payload: /raise_nursery_crop
+    - title: Main field planting
+      payload: /main_field_planting
+  utter_spacing_planting_sugarcane_setts:
+  - text: i) Ridges and furrows - 80 cm between rows ii) Dual row planting - 150 cm
+      between two broad furrows (middle of the furrows sugarcane setts are planted
+      in two rows adopting a spacing of 30 cm between them) iii) Pit method of planting
+      - Pit to pit spacing- 150 cm 150 cm.
+  utter_rate_planting_sugarcane_setts_row:
+  - text: � Plant the setts accommodating 12 buds/metre length.� Plant more setts
+      near the channel or double row planting at every 10th row for gap filling, at
+      later stage.
+  utter_qualities_good_seed_sugarcane:
+  - text: Straight and standing, no side shooting, should be certified with good germination
+      capability and free of insect & diseases.
+  utter_seed_rate_cultivating_sugarcane:
+  - text: 75,000 two-budded setts/ha.40,000 three-budded setts/ha.
+  utter_seed_cultivating_sugarcane:
+  - text: 'Azospirillum: Prepare the slurry with 10 packets (2000 g)/ha of Azospirillum
+      inoculums with sufficient water and soak the setts in the slurry for 15minutes
+      before planting.Fungicide: The setts should be soaked in Carbendazim (1 gram
+      in 1 litre of water)'
+  utter_intercrops_sugarcane:
+  - text: Soyabean, blackgram, greengram and cowpea are suitable for intercropping
+      with sugarcane
+  utter_detrashing_sugarcane:
+  - text: It increases sugar recovery by reducing insect & disease pests
+  utter_control_flowering_sugarcane:
+  - text: � Ethephon (ethrel) applied at the rate of 500 ppm effectively controlled
+      flowering in a number of profuse flowering varieties. � By altering the planting
+      date, flowering can be avoided in heavy flowering areas. Adsali planting or
+      special season planting (July to September) helps in avoiding flowering and
+      its adverse effects.
+  utter_non_flowering_varieties_sugarcane:
+  - text: Non-flowering varieties are Co 8021, Co 86032, Co 87025, Co 91010, Co 94005
+      and Co 94008.
+  utter_intercops_sugarcane:
+  - text: In areas of adequate irrigation, sow one row of soybean or blackgram or
+      greengram can be used. Intercropping of daincha or sunhemp along ridges and
+      incorporation of the same on the 45th day during partial earthing up helps to
+      increase the soil fertility, and also the cane yield. Especially Intercropping
+      of Co.1 Soybean gives a yield of 800 kg/ha without any adverse effect on cane
+      yield.
+  utter_trash_mulching:
+  - text: Mulch the ridges uniformly with cane trash to a thickness of 10 cm within
+      a week after planting. It helps to tide over drought, conserves moisture, reduce
+      weed population and minimise shoot borer incidence. Mulch the field with trash
+      after 21 days of planting in heavy soil and wetland conditions. Avoid trash
+      mulching in areas where incidence of termites is noticed.
+  utter_gap_filling:
+  - text: Fill the gaps, if any, within 30 days after planting with sprouted setts.
+  utter_advantages_tissue_culture_sugarcane:
+  - text: � Production of true to type plantlets � Rapid multiplication � Independent
+      of seasonal constraints � Maintaining and improving the productivity of outstanding
+      varieties in the field � Production of disease free planting material from apical
+      meristem
+  utter_chip_bud:
+  - text: In this technique the bud along with a portion of the nodal region is chipped
+      off using a bud chipping machine. This bud is used for planting.
+  utter_planting_late_conditions:
+  - text: Under late planting condition 25000-30000 STP raised settlings are transplanted
+      in one hectare land maintaining 75 cm row spacing and 60 cm plant to plant spacing
+      leaving 5 cm of shoot above ground level followed by irrigation.
+  utter_ring_pit:
+  - text: About 7600 pits/ha of 90/75 cm diameter and 45 cm deep are made by tractor
+      mounted pit-digger machine. Twenty 2 budded treated setts are arranged horizontally
+      in cyclic manner in each pit partially filled with mixture of 5 kg FYM, 45 gm
+      DAP, 45 gm Urea and some part of soil, then followed by spray of chlorpyriphos
+      20% EC @ 5 liters/ha On setts, soil cover up to 2.5 cm above setts and light
+      irrigation. Half of the excavated out soil with 25 gm urea is filled back in
+      each pit in the month of March/April, remaining half of the soil is placed in
+      pit with 25 gm urea and 4.5 gm Phorate 10 G by the end of June.
+  utter_improved_methods_sugarcane_planting:
+  - text: 'Different improved methods of sugarcane planting are: Ridge-furrow, flat,trench,
+      double row, ring pit, Spaced Transplanting (STP), Poly bag'
+  utter_spaced_transplanting:
+  - text: Recently in STP (Spaced transplanting) method single eyed sets are used
+      for planting. Either direct sets or seedlings raised in polybag nurseries are
+      transplanted into the field after 50-55 days. For this STP or single eyed set
+      method 750-1MT seed per acre is required. This method saves seed cost by 60-70%.
+      In this method distance between two sets kept at 30cm.
+  utter_paired_row_cultivation:
+  - text: Two grow more than one intercrop, to earn more income within the same land
+      and to generate more scope of utilizing labour force.
+  utter_dual_row_planting_sugarcane:
+  - text: To facilitate mechanization and to improve the cane yield under wide rows,
+      a new technology, 'dual row planting' is developed. In this method, broad furrows
+      are formed at a spacing of 150 cm and in the middle of the furrows sugarcane
+      setts are planted in two rows adopting a spacing of 30 cm between them. The
+      dual row system of gave planting cane yield of 136.3 t/ha and the highest variety
+      Co 94005 recorded the highest cane yield under dual row planting.
+  utter_satisfy_higher_nutritional_demand_sugarcane:
+  - text: Ensure application of balanced fertilization with recommended doses of fertilizers.
+  utter_fertilizer_dose_pith_sugarcane_planting:
+  - text: Fertilizer dose- 275:62.5:112.5 kg NPK/ha � The entire phosphorous dose
+      can be applied as basal at the time of planting. � The nitrogen and potassium
+      as urea and MOP (White potash) should be applied through fertigation system
+      in 14 equal splits starting from 15 DAP upto 210 DAP.
+  utter_fertilizer_after_transplantation_sugarcane_settlings:
+  - text: Within 7 to 14 days
+  utter_plant_sugarcane_pit_method_after_pit_preparation:
+  - text: Fill the pits to a depth of 15 cm with compost and native soil and mix it
+      well. Place the healthy setts in circular fashion leaving 10 cm from the outer
+      boundary of the pits with equal spacing between each setts and cover the setts
+      with the soil. On 50 to 60 days after planting give partial earthing up by sliding  the
+      soil from the outer boundary of the pit and full earthing up should be given
+      leaving a depression of 2.5 cm from the ground level at 90 to 100 days after
+      planting.
+  utter_pits_sugarcane_planting:
+  - text: Pit to pit spacing- 1.5 1.5 m, number of pits/ha- 4,444 pits, pit diameter
+      � 0.9 m, Pit depth � 0.38 m, number of budded setts / pit � 32 (Single budded
+      setts) or 16 number of single budded setts.
+  utter_organic_manure_field_inorder_cultivate_sugarcane:
+  - text: � Apply FYM at 12.5 t/ha or compost 25 t/ha or filter press mud at 37.5
+      t/ha before the last ploughing under gardenland conditions. In wetlands this
+      may be applied along the furrows and Incorporated well. � Test the soil and  apply
+      P fertilizer based on soil test values. Otherwise apply superphosphate (375
+      kg/ha) along the furrows and incorporate with hand hoe. � Apply 37.5 kg Zinc
+      sulphate/ha and 100 kg Ferrous sulphate/ha to zinc and iron deficient soils.
+  utter_create_ridges_furrows_soil_before_cultivating_sugarcane:
+  - text: In problem soils, with excessive moisture where it is difficult to drain
+      water, form raised beds at 30cm intervals with Length - 5 m, Width - 80 cm,and
+      Height -15 cm.
+  utter_soil_organic_higher_sugarcane_yield:
+  - text: 2-3% soil organic matter.
+  utter_conserve_our_soil_fertility:
+  - text: Integrated management with organic manure and inorganic fertilizers.
+  utter_soil_suitable_growing_sugarcane:
+  - text: Sugarcane can be grown in all types of soils ranging from Sandy loam to
+      Clay loam soils
+  utter_wetland_cultivating_sugarcane_after_harvesting_paddy:
+  - text: In wetlands, preparatory cultivation by ploughing the land and bringing
+      the soil to fine tilth could not be done. i) After harvest of the paddy crop,
+      form irrigation and drainage channels of 40 cm depth and 30 cm width at intervals
+      of 6 m across the field and along the field borders. ii) Form ridges and furrows
+      with a spacing of 80 cm between rows with spade. iii) Stir the furrows with
+      hand hoes and allow the soil to weather for 4 to 5 days.
+  utter_late_maturing_varieties_sugarcane:
+  - text: Late maturing varieties are- Co 6304, CoC 8201, CoC 771, CoC 778, CoC 779,
+      Co 419, Co 740, Co 658, CoG 93076, Co 85019, CoC 99061, Co 86032, CoC (SC) 22.
+  utter_early_maturing_varieties_sugarcane:
+  - text: Early maturing varieties are- Co 658, Co 62174, Co 62198, CoC 671, CoC771,CoC
+      772, CoC 8001, CoC85061, CoC86062, CoSi86071, CoC90063, CoC 91061, CoG 94077,Co
+      Si 95071, CoC 98061, Co 86010, Co 86249.
+  utter_varieties_suitable_Karnataka:
+  - text: 'i. Early season varieties : Co 6415, Co 7704, CoC 671, Co 85002 ii.Mid
+      and Late season varieties : Co 62175, Co 740, Co 8014, Co 8021, Co 8011, Co
+      8371,Co 7804, Co 86032.'
+  utter_sugarcane_variety_high_sugar_kerala:
+  - text: Co 6907, Co 7405 and Cul 57/84 (Thirumadhuram).
+  utter_varieties_pertaining_kerala_tolerant_redrot:
+  - text: Cul 527/85 and Co 88017, Co Tl 88322 (Madhuri), Co 6907, Co 7405 and Cul
+      57/84 (Thirumadhuram) are resistant to red rot.
+  utter_varieties_pertaining_kerala_tolerant_drought:
+  - text: Co 92175, Cul 527/85 (Madhurima), Co 88017 (Madhumathi) are drought tolerant.
+      Cul 527/85 and Co 88017 are also red rot resistant.
+  utter_varieties_serves_kerala:
+  - text: Co Tl 88322 (Madhuri), Co 92175, Co 92175, Co 740, Co 6907, Co 7405 and
+      Cul 57/84 (Thirumadhuram), Cul 527/85 (Madhurima), Co 88017 (Madhumathi)
+  utter_seed_sugarcane_areas_tamilnadu:
+  - text: For the varieties released from Tamil Nadu Agricultural University for supply
+      of primary seed materials the Sugarcane Research Stations at Cuddalore, Sirugamani
+      and Melalathur may be contacted. For other varieties promoted by the factories,
+      for seed materials the concerned factories may be contacted.
+  utter_co_98014:
+  - text: 'Mean cane yield: 116.69 t/ha Mean sugar yield: 16.83 t/ha Disease reaction:
+      Resistance to red rot and wilt Others: (a) Tolerant to drought and salinity;
+      (b) Tolerant to internode borer (c) Golden yellow A1 quality jaggery (d) Shy
+      flowering habit The variety has excellent field habits like erectness; early
+      vigorous growth, dark green foliage, tall canes without spines or splits and
+      14% mean fibre content.'
+  utter_new_varieties_sugarcane_released:
+  - text: Two clones evolved at the Sugarcane Breeding Institute, namely Co 98014
+      (Karan 1), an early variety (spring planting) suited to North Western Zone and
+      Co 99004 (Damodar), a mid-late variety suited to Peninsular India (Gujarat,
+      Maharashtra, interior Andhra Pradesh, Tamil nadu, Karnataka and Kerala) have
+      been released as varieties for the general public during February 2007.
+  utter_varieties_serves_tamilnadu:
+  - text: CoV 92102, CoC 90063, Co Si (Sc)6, Co G (Sc) 5, Co C (Sc) 22, Co 86032,
+      CoSi 95071, Co 86249, CoG 93076, CoV 94102, Co 85019, Co Si(Sc)6, Co G (Sc)5,
+      Co C (Sc)22, Co 86032, Co 86027, Co 97009, Co Si(Sc)6, Co G (Sc)5, Co C (Sc)22,
+      CoG 94077, CoC 671.
+  utter_temperature_sugarcane:
+  - text: 32� to 38�c
+  utter_rainfall_cultivating_sugarcane:
+  - text: A total rainfall between 1100 and 1500 mm is adequate provided the distribution
+      is right, abundant in the months of vegetative growth followed by a dry period
+      for ripening.
+  utter_season_planting_sugarcane_kerala:
+  - text: The normal planting season is October-December. Delay in planting reduces
+      cane yield. Planting should not be delayed beyond February in the plains. In
+      hilly tracts where sugarcane is cultivated under rain fed conditions, planting
+      should be done after decrease of heavy rains. 
+    image: http://www.agritech.tnau.ac.in/expert_system/sugar/season&varieties.html#3
+  utter_season_planting_sugarcane_karnataka:
+  - text: Eksali - December-February for the 12-month crop Preseasonal - October-November
+      for the 15 to 16 month crop Adsali - July-August for the 18-month crop 
+    image: http://www.agritech.tnau.ac.in/expert_system/sugar/season&varieties.html#2
+  utter_season_planting_sugarcane_tamilnadu:
+  - text: 'Sugarcane is grown chiefly in the main season (December - May) in the entire
+      State.i) Early season: Dec – Jan    ii) Mid season: Feb – March    iii) Late
+      season: April – May     iv) Special season: June – July '
+    image: http://www.agritech.tnau.ac.in/expert_system/sugar/season&varieties.html#1
+  utter_season_planting_sugarcane:
+  - text: choose which location?
+    buttons:
+    - title: tamilnadu
+      payload: /season_planting_sugarcane_tamilnadu
+    - title: kerala
+      payload: /season_planting_sugarcane_kerala
+    - title: tamilnadu
+      payload: /season_planting_sugarcane_tamilnadu
+
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+actions:
+  - utter_greet
+  - utter_cheer_up
+  - utter_did_that_help
+  - utter_happy
+  - utter_goodbye
+  - utter_iamabot
+  - utter_temperature_sugarcane
+  - utter_rainfall_cultivating_sugarcane
+  - utter_season_planting_sugarcane
+  - utter_season_planting_sugarcane_kerala
+  - utter_season_planting_sugarcane_karnataka
+  - utter_season_planting_sugarcane_tamilnadu
+  - utter_varieties_serves_tamilnadu
+  - utter_new_varieties_sugarcane_released
+  - utter_co_98014
+  - utter_seed_sugarcane_areas_tamilnadu
+  - utter_varieties_serves_kerala
+  - utter_varieties_pertaining_kerala_tolerant_drought
+  - utter_varieties_pertaining_kerala_tolerant_redrot
+  - utter_sugarcane_variety_high_sugar_kerala
+  - utter_varieties_suitable_Karnataka
+  - utter_early_maturing_varieties_sugarcane
+  - utter_late_maturing_varieties_sugarcane
+  - utter_wetland_cultivating_sugarcane_after_harvesting_paddy
+  - utter_soil_suitable_growing_sugarcane
+  - utter_conserve_our_soil_fertility
+  - utter_soil_organic_higher_sugarcane_yield
+  - utter_create_ridges_furrows_soil_before_cultivating_sugarcane
+  - utter_organic_manure_field_inorder_cultivate_sugarcane
+  - utter_pits_sugarcane_planting
+  - utter_plant_sugarcane_pit_method_after_pit_preparation
+  - utter_fertilizer_after_transplantation_sugarcane_settlings
+  - utter_fertilizer_dose_pith_sugarcane_planting
+  - utter_satisfy_higher_nutritional_demand_sugarcane
+  - utter_dual_row_planting_sugarcane
+  - utter_paired_row_cultivation
+  - utter_spaced_transplanting
+  - utter_improved_methods_sugarcane_planting
+  - utter_ring_pit
+  - utter_planting_late_conditions
+  - utter_chip_bud
+  - utter_advantages_tissue_culture_sugarcane
+  - utter_gap_filling
+  - utter_trash_mulching
+  - utter_intercops_sugarcane
+  - utter_non_flowering_varieties_sugarcane
+  - utter_control_flowering_sugarcane
+  - utter_detrashing_sugarcane
+  - utter_intercrops_sugarcane
+  - utter_seed_cultivating_sugarcane
+  - utter_seed_rate_cultivating_sugarcane
+  - utter_qualities_good_seed_sugarcane
+  - utter_rate_planting_sugarcane_setts_row
+  - utter_spacing_planting_sugarcane_setts
+  - utter_seasons_raising_sugarcane_nursery_planting_main_field
+  - utter_raise_nursery_crop
+  - utter_main_field_planting
+  - utter_fertilizer_dose_nursery_plot_sugarcane
+  - utter_fertilizer_sugarcane_tamilnadu
+  - utter_recommended_dose_method_press-mud_application
+  - utter_symptoms_zinc_deficiency_sugarcane_measures_amelioration
+  - utter_role_nitrogen_sugarcane_cultivation
+  - utter_phosphorus_sugarcane
+  - utter_potassium_sugarcane
+  - utter_dose_bio-fertilizer_sugarcane
+  - utter_irrigations_sugarcane
+  - utter_irrigation_intervals_each_phase_sugarcane
+  - utter_tillering_phase
+  - utter_grand_growth_phase
+  - utter_maturity_phase
+  - utter_fertigation_system
+  - utter_surface_drip_irrigation
+  - utter_sub_surface_drip_irrigation
+  - utter_many_days_sugarcane_field_maintain_weed_free
+  - utter_control_parastitic_weed_striga_sugarcane
+  - utter_manage_weeds_sugarcane_field_intercropping_system
+  - utter_herbicides_control_weeds_sugarcane
+  - utter_Pre-emergence_weed_management
+  - utter_post-emergence_weed_management
+  - utter_insects_sugarcane
+  - utter_sucking_pests_sugarcane_prevalent_regions_TamilNadu
+  - utter_serious_pest_sugarcane_Tamilnadu_region
+  - utter_serious_diseases_sugarcane_prevalent_regions_Tamilnadu
+  - utter_chemical_control_measure_early_shoot_borer
+  - utter_not_power_sprayer_insecticides_shoot_borer_control
+  - utter_not_sevidol_8g_effective_against_shoot_borer
+  - utter_control_measures_insecticide_shoot_borer
+  - utter_not_shoot_borer_controlled_application_lindane_chlorpyriphos
+  - utter_pheromone_traps
+  - utter_pheromone_traps_obtained
+  - utter_use_same_pheromone_any_pest
+  - utter_no_special_smell_rubber_septa_firms_genuine
+  - utter_side_effects_pheromones
+  - utter_trash_mulching_shoot_borer_incidence
+  - utter_light_earthing_35th_day_reduce_shoot_borer_incidence
+  - utter_pest_attacks_internode_sugarcane_reducing_quality_ultimately
+  - utter_internode_borer_enter_effect_sugarcane_crop
+  - utter_control_internode_borer_sugarcane
+  - utter_presence_dead_heart_sugarcane
+  - utter_detrashing_effective_inb_management
+  - utter_control_top_borer_pest
+  - utter_differentiate_inb_top_borer_dead_hearts
+  - utter_termite_attack_more_light_soils
+  - utter_termite_controlled_irrigated
+  - utter_prevent_sugarcane_against_termite
+  - utter_termite_mounds_vicinity_attack_field
+  - utter_termite_mounds_eradicated
+  - utter_mixing_engine_oil_kerosene_irrigation_water_protection_termites
+  - utter_control_measure_scale_insect
+  - utter_insecticide_sett_treatment_scale_insect
+  - utter_control_mealy_bug_infestation_sugarcane
+  - utter_meal_bug_pest_effect_sugarcane_juice
+  - utter_dose_swa_cause_itching_body
+  - utter_swa_spreading_entire_field_10_days
+  - utter_thimet_granule_application_very_effective_swa
+  - utter_methyl_parathion_dust_very_effective_swa
+  - utter_microbial_agent_swa_control
+  - utter_swa_attack_other_crop
+  - utter_leaf_hopper_canefly
+  - utter_incidence_pyrilla_pest_sugarcane
+  - utter_pyrilla_controlled
+  - utter_leaf_hopper_canefly_quality_juice_effected
+  - utter_symptoms_white_fly_attack_sugarcane
+  - utter_manage_white_fly_damage
+  - utter_white_grub_incidence_sugarcane
+  - utter_control_white_grubs_standing_sugarcane_crop
+  - utter_control_rat
+  - utter_best_chemical_poison_baiting_rats
+  - utter_red_rot_disease_spreads_sugarcane
+  - utter_sett_treatment_control_red_rot_disease
+  - utter_red_rot_typicalsymptoms
+  - utter_sugarcane_smut
+  - utter_smut_disease_spreads
+  - utter_wilt_diagnosable_symptoms
+  - utter_control_wilt
+  - utter_germination_phase_vulnerable_infection
+  - utter_sett_root_prevent_disease
+  - utter_varieties_resistant_sugarcane_grassy_shoot_disease
+  - utter_pathogen_spreads
+  - utter_yellow_leaf_disease_characteristic_symptoms
+  - utter_control_yellow_leaf_disease
+  - utter_ratoon_stunting_disease_recognized_field
+  - utter_control_ratoon_stunting_disease
+  - utter_criteria_best_quality_sugarcane_juice
+  - utter_organic_jaggery
+  - utter_prepare_bottled_sugarcane_juice
+  - utter_maturity_ripening_sugarcane
+  - utter_technology_sprouting_winter_initiated_ratoon
+  - utter_optimum_millable_cane_ratoon_crop
+  - utter_gap_filling_material_gap_filled_ratoon_crop
+  - utter_trash_mulching_advantages_ratoon_crop
+  - utter_vernacular_names
+  - utter_origin
+  - utter_introduction_sugarcane
+  - utter_classification_sugarcane
+  - utter_botanical_description
+  - utter_stem
+  - utter_inflorescence
+  - utter_leaf
+  - utter_root
+  - utter_climatic_factor
+  - utter_latitude_altitude
+  - utter_rainfall
+  - utter_temperature
+  - utter_ideal_temperature
+  - utter_relative_humidity
+  - utter_sunshine
+  - utter_frost
+  - utter_wind
+  - utter_statistics_sugarcane
+  - utter_statistics_sugarcane_world
+  - utter_statistics_sugarcane_india_state
+  - utter_statistics_sugarcane_district
+  - utter_statistics_sugarcane_district_karnataka
+  - utter_statistics_sugarcane_district_kerala
+  - utter_statistics_sugarcane_district_tamilnadu
+  - utter_particulars_varieties
+  - utter_morphological_characters
+  - utter_season_wise_suitable_varieties
+  - utter_suitable_varieties_tamilNadu
+  - utter_new_varieties_sugarcane
+  - utter_important_variety_performance
+  - utter_suitable_varieties_kerala
+  - utter_suitable_varieties_karnataka
+  - utter_raising_nursery_crop
+  - utter_soil_preparations
+  - utter_spacing
+  - utter_sett_treatment
+  - utter_polybag_nursery
+  - utter_cultivation_practices
+  - utter_land_preparation
+  - utter_intercultural_operation
+  - utter_method_planting
+  - utter_weed_management
+  - utter_ratoon_management
+  - utter_sustainable_sugarcane_initiative
+  - utter_irrigation_management
+  - utter_water_requirement
+  - utter_irrigation_methods
+  - utter_drip_irrigation
+  - utter_fertigation
+  - utter_drought_management
+  - utter_nutrient_management
+  - utter_role_nutrient
+  - utter_nutrient_application
+  - utter_organic_manure
+  - utter_nutritional_disorder
+  - utter_integrated_nutrient_management
+  - utter_fertilizer_requirements
+  - utter_pest_management
+  - utter_disease_management
+  - utter_farm_implements
+  - utter_harvesting
+  - utter_harvesting_process
+  - utter_types_harvesting
+  - utter_maturity_symptoms_harvesting_period
+  - utter_processing_sugarcane
+  - utter_harvesting_products
+  - utter_marketing
+  - utter_institutions_schemes
+  - utter_international_institutions
+  - utter_national_institutions
+  - utter_sugarcane_research_station
+  - utter_schemes
+  - utter_name
+  - ActionGreet
+  - action_greet
+  - ActionBye
+  - action_bye
+  - utter_city 
+  - utter_temp
+  - utter_greett
+  - action_weather_api
+  - ActionGreetUser
+  - action_greet_user
+  - ActionWeatherApi 
+  - action_vernacular_names
+  - ActionVernacularNames
+  - action_botanical_description
+  - ActionBotanicalDescription
+  - action_climatic_factor
+  - ActionClimaticFactor
+  - action_suitable_varieties_karnataka
+  - ActionSuitableVarietiesKarnataka
+  - action_suitable_varieties_kerala
+  - ActionSuitableVarietiesKerala
+  - action_important_variety_performance
+  - ActionImportantVarietyPerformance
+  - action_new_varieties_sugarcane
+  - ActionNewVarietiesSugarcane
+  - action_suitable_varieties_tamilNadu
+  - ActionSuitableVarietiesTamilNadu
+  - action_season_wise_suitable_varieties
+  - ActionSeasonWiseSuitableVarieties
+  - action_morphological_characters
+  - ActionMorphologicalCharacters
+  - action_particulars_varieties
+  - ActionParticularsVarieties
+  - action_ratoon_management
+  - ActionRatoonManagement
+  - action_weed_management
+  - ActionWeedManagement
+  - action_method_planting
+  - ActionMethodPlanting
+  - action_intercultural_operation
+  - ActionInterculturalOperation
+  - action_land_preparation
+  - ActionLandPreparation
+  - action_sustainable_sugarcane_initiative
+  - ActionSustainableSugarcaneInitiative
+  - action_drought_management
+  - ActionDroughtManagement
+  - action_fertigation
+  - ActionFertigation
+  - action_drip_irrigation
+  - ActionDripIrrigation
+  - action_irrigation_methods
+  - ActionIrrigationMethods
+  - action_water_requirement
+  - ActionWaterRequirement
+  - action_fertilizer_requirements
+  - ActionFertilizerRequirements
+  - action_integrated_nutrient_management
+  - ActionIntegrated_Nutrient_Management
+  - action_nutritional_disorder
+  - ActionNutritionalDisorder
+  - action_organic_manure
+  - ActionOrganicManure
+  - action_nutrient_application
+  - ActionNutrientApplication
+  - action_role_nutrient
+  - ActionRoleNutrient
+  - action_pest_management
+  - ActionPestManagement
+  - action_disease_management
+  - ActionDiseaseManagement
+  - action_harvesting_products
+  - ActionHarvestingProducts
+  - action_processing_sugarcane
+  - ActionProcessingSugarcane
+  - action_maturity_symptoms_harvesting_period
+  - ActionMaturitySymptomsHarvestingPeriod
+  - action_types_harvesting
+  - ActionTypesHarvesting
+  - action_harvesting_process
+  - ActionHarvestingProcess
+  - action_marketing
+  - ActionMarketing
+  - action_sugarcane_research_station
+  - ActionSugarcaneResearchStation
+  - action_national_institutions
+  - ActionNationalInstitutions
+  - utter_rice_plant
+  - utter_sugarcane
+  - utter_buttons
+  - utter_buttons2
+  - action_sugarcane
+  - ActionSugarcane
+  - action_paddy
+  - ActionPaddy
+  - utter_harvesting_process2
+  - utter_sett_treatment1
+

@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="./dist/Chatroom.css">
+    <style>
+	* {
+  font-family: "Open Sans", Helvetica, "Helvetica Neue", sans-serif;
+  box-sizing: border-box;
+}
+
+.chat-container {
+  margin: 100px auto;
+  width: 360px;
+  z-index: 100;
+  box-shadow: 0 0 3em black;
+}
+
+@media (max-width: 400px) {
+  .chat-container {
+    margin: 20px 10px;
+    width: auto;
+  }
+}
+
+.chat-demo-button {
+  border-radius: 3px;
+  color: #343d4e;
+  border: 2px solid #343d4e;
+  padding: 5px 10px;
+  background-color: white;
+  outline: none;
+  font-size: 12px;
+  cursor: pointer;
+}
+.chat-demo-button:hover {
+  background-color: rgba(52, 61, 78, 0.3);
+}
+.chat-demo-button:active {
+  background-color: rgba(52, 61, 78, 0.8);
+}
+</style>
+    <title>Chatroom Example</title>
+  </head>
+  <body>
+    <div class="chat-container"></div>
+    <script src="./dist/Chatroom.js"></script>
+    <script type="text/javascript">
+window.chatroom = new window.Chatroom({
+  title: "Chat with a bot",
+  container: document.querySelector(".chat-container"),
+  welcomeMessage: "Nice to meet you.",
+  host: "http://localhost:5005",
+  speechRecognition: "en-US",
+  voiceLang: "en-US"
+});
+window.chatroom.openChat();
+</script>
+  </body>
+</html>
